@@ -16,6 +16,8 @@
 
 **Novidades da biblioteca / Library features:** busca bilíngue por assuntos, 11 desafios com explicações, 11 mini ferramentas e marcações pessoais de leitura salvas no navegador (quando o armazenamento local está disponível). / Bilingual topic search, 11 explained discovery challenges, 11 mini tools and local reading marks (when browser storage is available). Sem conta, curso, nota ou certificado. / No account, course, grade or certificate.
 
+**Leituras ampliadas / Expanded readings:** 11 artigos com quatro seções temáticas cada, totalizando 4.020 palavras em português e 3,520 em inglês, baseados nos dez guias integrados e no V00. Abra uma pasta para ler o artigo completo antes dos mini laboratórios. / 11 articles with four thematic sections each, based on the ten integrated guides and Volume 00. Open a folder to read the full article before the mini labs. Os PDFs integrais continuam privados. / Full PDFs remain private.
+
 ## Português
 
 O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
