@@ -1,6 +1,6 @@
-<p align="center"><a href="https://kgasil.github.io/genesis/"><img src="assets/brand-banner.svg" alt="Project Genesis — Princípio" width="100%"></a></p>
+<p align="center"><a href="https://kgasil.github.io/genesis/"><img src="assets/brand-banner.svg" alt="Project Genesis — O Princípio" width="100%"></a></p>
 
-# Project Genesis — Princípio
+# Project Genesis — O Princípio
 
 **Knowledge · Science · Evolution**  
 *by K&G Vision*
