@@ -8,6 +8,12 @@
 
 [Portal](https://kgasil.github.io/genesis/) · [Português](#português) · [English](#english)
 
+## Biblioteca interativa / Interactive library
+
+[**Abrir as 11 pastas de leitura e mini ferramentas / Explore all 11 reading folders and mini tools**](https://kgasil.github.io/genesis/biblioteca.html)
+
+[Volume 00 — Guia geral / General guide](https://kgasil.github.io/genesis/biblioteca.html#m00) · 10 módulos com amostras de leitura e demonstrações interativas locais. Os exemplos são didáticos e os PDFs completos continuam privados. / 10 modules with reading previews and local interactive demonstrations. Full PDFs remain private.
+
 ## Português
 
 O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
@@ -16,16 +22,16 @@ O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K
 
 | Módulo | Guia público (resumo) | Temas |
 | --- | --- | --- |
-| 01 | [Digital Foundations](https://kgasil.github.io/genesis/#modulo-01) | Computadores, lógica, Git, Python, Java e estruturas de dados. |
-| 02 | [Data Intelligence](https://kgasil.github.io/genesis/#modulo-02) | Estatística, SQL, pandas, Power BI, DAX e pipelines ETL. |
-| 03 | [Software Engineering](https://kgasil.github.io/genesis/#modulo-03) | Redes, HTTP, frontend, APIs, testes, QA e automação. |
-| 04 | [Cyber Defense](https://kgasil.github.io/genesis/#modulo-04) | Linux, riscos, identidade, criptografia, redes, SOC e resposta a incidentes. |
-| 05 | [Advanced Cybersecurity](https://kgasil.github.io/genesis/#modulo-05) | Zero Trust, Secure Coding, Threat Modeling, AppSec, testes autorizados, forense e GRC. |
-| 06 | [Artificial Intelligence Engineering](https://kgasil.github.io/genesis/#modulo-06) | ML, deep learning, IA generativa, LLMs, RAG, agentes e avaliação de IA. |
-| 07 | [Enterprise Technology Engineering](https://kgasil.github.io/genesis/#modulo-07) | Cloud, Docker, Kubernetes, DevSecOps, segurança de dependências, MLOps e observabilidade. |
-| 08 | [Advanced Computer Science & Applied Mathematics](https://kgasil.github.io/genesis/#modulo-08) | Lógica formal, álgebra linear, cálculo, otimização, probabilidade, algoritmos e sistemas distribuídos. |
-| 09 | [Advanced AI & Cybersecurity Research](https://kgasil.github.io/genesis/#modulo-09) | ML e deep learning avançados, Transformers, LLMs, RL, privacidade e robustez. |
-| 10 | [Advanced AI Security, Research & Innovation Engineering](https://kgasil.github.io/genesis/#modulo-10) | Metodologia científica, arquitetura de IA, segurança, privacidade, AI Assurance, auditoria e simulação. |
+| 01 | [Digital Foundations](https://kgasil.github.io/genesis/biblioteca.html#m01) | Computadores, lógica, Git, Python, Java e estruturas de dados. |
+| 02 | [Data Intelligence](https://kgasil.github.io/genesis/biblioteca.html#m02) | Estatística, SQL, pandas, Power BI, DAX e pipelines ETL. |
+| 03 | [Software Engineering](https://kgasil.github.io/genesis/biblioteca.html#m03) | Redes, HTTP, frontend, APIs, testes, QA e automação. |
+| 04 | [Cyber Defense](https://kgasil.github.io/genesis/biblioteca.html#m04) | Linux, riscos, identidade, criptografia, redes, SOC e resposta a incidentes. |
+| 05 | [Advanced Cybersecurity](https://kgasil.github.io/genesis/biblioteca.html#m05) | Zero Trust, Secure Coding, Threat Modeling, AppSec, testes autorizados, forense e GRC. |
+| 06 | [Artificial Intelligence Engineering](https://kgasil.github.io/genesis/biblioteca.html#m06) | ML, deep learning, IA generativa, LLMs, RAG, agentes e avaliação de IA. |
+| 07 | [Enterprise Technology Engineering](https://kgasil.github.io/genesis/biblioteca.html#m07) | Cloud, Docker, Kubernetes, DevSecOps, segurança de dependências, MLOps e observabilidade. |
+| 08 | [Advanced Computer Science & Applied Mathematics](https://kgasil.github.io/genesis/biblioteca.html#m08) | Lógica formal, álgebra linear, cálculo, otimização, probabilidade, algoritmos e sistemas distribuídos. |
+| 09 | [Advanced AI & Cybersecurity Research](https://kgasil.github.io/genesis/biblioteca.html#m09) | ML e deep learning avançados, Transformers, LLMs, RL, privacidade e robustez. |
+| 10 | [Advanced AI Security, Research & Innovation Engineering](https://kgasil.github.io/genesis/biblioteca.html#m10) | Metodologia científica, arquitetura de IA, segurança, privacidade, AI Assurance, auditoria e simulação. |
 
 Os resumos incluem exemplos de prática e conhecimentos úteis para áreas como dados, BI, software, infraestrutura, automação, engenharia de IA, segurança e avaliação de modelos. Não garantem emprego ou habilitação profissional.
 
@@ -54,6 +60,7 @@ The materials support independent study across data, software, infrastructure, A
 ## Website
 
 - `index.html` — bilingual, responsive catalog of ten module summaries.
+- `biblioteca.html` — eleven reading folders and interactive mini tools (no backend).
 - `assets/genesis-symbol.svg` — orbital spark.
 - `assets/brand-banner.svg` — project identity.
 
