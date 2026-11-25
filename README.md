@@ -1,4 +1,4 @@
-<p align="center"><a href="https://kgasil.github.io/genesis/"><img src="assets/brand-banner.svg" alt="Project Genesis — Sabedoria e Aplicação" width="100%"></a></p>
+<p align="center"><a href="https://kgasil.github.io/genesis/"><img src="assets/readme-cover.svg" alt="Project Genesis — official project identity" width="760"></a></p>
 
 # Project Genesis — Sabedoria e Aplicação
 
@@ -62,7 +62,7 @@ Public visibility is not a license to redistribute materials. License terms are 
 
 ## Identidade K&G Vision / K&G Vision identity
 
-[![K&G Vision — stacked wordmark, four-project identity](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg)](https://kgasil.github.io/)
+<p align="center"><a href="https://kgasil.github.io/"><img src="https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg" alt="K&amp;G Vision — institutional identity" width="420"></a></p>
 
 [Versão vertical / Vertical lockup](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/brand-stacked.svg) · [Escudo / Shield](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/kg-symbol.svg)
 
