@@ -37,12 +37,16 @@ Project Genesis is our self-directed, independent study and research project. We
 
 Genesis is not an educational institution, has no official academic recognition, and does not offer formal training, its own courses, classes, enrollment, tutoring, assessments, diplomas or certificates. The portal is non-commercial.
 
-## Ecosystem
+## Ecosystem / Ecossistema
 
-- [K&G Vision](https://kgasil.github.io/) — independent technology initiative.
-- [Project Vision](https://kgasil.github.io/vision/) — AI research and engineering.
-- Project Genesis — independent studies and knowledge sharing.
-- Project Aeris — planned productivity tools.
+| Project | Website | Repository | Current stage / Etapa atual |
+| --- | --- | --- | --- |
+| K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
+| Project Genesis | [O Princípio](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
+| Project Vision | [Beyond Boundaries](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
+| Project Aeris | [Naturally / Naturalmente](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
+
+**Learn · Build · Simplify / Aprender · Construir · Simplificar**
 
 ## Website
 
@@ -50,6 +54,6 @@ Genesis is not an educational institution, has no official academic recognition,
 - `assets/genesis-symbol.svg` — orbital spark.
 - `assets/brand-banner.svg` — project identity.
 
-Open `index.html` in a browser; no backend or build step is required. The public repository does not include internal study documents.
+Open `index.html` in a browser; no backend or build step is required. The site is configured for GitHub Pages from `main` at `/ (root)`. The public repository does not include internal study documents.
 
 Public visibility is not a license to redistribute materials. License terms are not yet specified.
