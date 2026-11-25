@@ -14,6 +14,8 @@
 
 [Volume 00 — Guia geral / General guide](https://kgasil.github.io/genesis/biblioteca.html#m00) · 10 módulos com amostras de leitura e demonstrações interativas locais. Os exemplos são didáticos e os PDFs completos continuam privados. / 10 modules with reading previews and local interactive demonstrations. Full PDFs remain private.
 
+**Novidades da biblioteca / Library features:** busca bilíngue por assuntos, 11 desafios com explicações, 11 mini ferramentas e marcações pessoais de leitura salvas no navegador (quando o armazenamento local está disponível). / Bilingual topic search, 11 explained discovery challenges, 11 mini tools and local reading marks (when browser storage is available). Sem conta, curso, nota ou certificado. / No account, course, grade or certificate.
+
 ## Português
 
 O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
