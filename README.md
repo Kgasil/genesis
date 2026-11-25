@@ -2,7 +2,8 @@
 
 # Project Genesis — Sabedoria e Aplicação
 
-**Knowledge · Science · Evolution**  
+**Wisdom & Application · Sabedoria e Aplicação**  
+*Learn with rigor. Build with purpose.*  
 *by K&G Vision*
 
 [Portal](https://kgasil.github.io/genesis/) · [Português](#português) · [English](#english)
@@ -29,7 +30,7 @@ Não somos uma instituição de ensino e não possuímos reconhecimento acadêmi
 
 ## English
 
-Project Genesis is our self-directed, independent study and research project. We aim to improve our own skills, explore science and technology, and share useful knowledge with others.
+Project Genesis turns curiosity into disciplined learning and knowledge into practical engineering. Our independent study and research initiative is designed to deepen technical competence, explore science and technology, and share useful reviewed knowledge for self-directed learners.
 
 **Available now:** the project overview and topics we study. No guides are available for download yet.
 
@@ -42,10 +43,10 @@ Genesis is not an educational institution, has no official academic recognition,
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
-| Project Genesis | [Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
+| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
 | Project Vision | [Security & Efficiency](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
-| Project Lilium | [Strategy & Intelligence.](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Local metrics prototype; business suite planned / Protótipo local de indicadores; aplicação empresarial em planejamento |
+| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Local metrics prototype; business suite planned / Protótipo local de indicadores; aplicação empresarial em planejamento |
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
