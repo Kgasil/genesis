@@ -16,15 +16,15 @@
 
 **Novidades da biblioteca / Library features:** busca bilíngue por assuntos, 11 desafios com explicações, 11 mini ferramentas e marcações pessoais de leitura salvas no navegador (quando o armazenamento local está disponível). / Bilingual topic search, 11 explained discovery challenges, 11 mini tools and local reading marks (when browser storage is available). Sem conta, curso, nota ou certificado. / No account, course, grade or certificate.
 
-**Leituras ampliadas / Expanded readings:** 11 artigos com quatro seções temáticas cada, totalizando 4.020 palavras em português e 3,520 em inglês, baseados nos dez guias integrados e no V00. Abra uma pasta para ler o artigo completo antes dos mini laboratórios. / 11 articles with four thematic sections each, based on the ten integrated guides and Volume 00. Open a folder to read the full article before the mini labs. Os PDFs integrais continuam privados. / Full PDFs remain private.
+**Leituras ampliadas / Expanded readings:** 11 artigos com quatro seções temáticas cada, totalizando 4.020 palavras em português e 3,520 em inglês, baseados nos dez guias integrados e no V00. A leitura é opcional: clique na pasta para abrir e clique novamente para fechar. / 11 articles with four thematic sections each, based on the ten integrated guides and Volume 00. Reading is optional: click a folder to expand it and click again to collapse it. Os PDFs integrais continuam privados. / Full PDFs remain private.
 
-**Miniartigos temáticos / Thematic mini articles:** cada uma das 11 áreas contém uma pasta interna expansível com introdução e definição, fundamentos, aplicação ilustrativa e considerações finais. Textos de contextualização conceitual assistidos por IA, não TCCs acadêmicos ou pesquisas revisadas por pares. / Each of the 11 areas includes an expandable reading folder with introduction, foundations, illustrative application and conclusions. AI-assisted conceptual context, not academic theses or peer-reviewed research. Os desafios e mini ferramentas permanecem disponíveis. / Challenges and mini tools remain available.
+**Miniartigos temáticos / Thematic mini articles:** cada uma das 11 áreas contém uma pasta interna expansível com introdução e definição, fundamentos, aplicação ilustrativa e considerações finais. Textos de contextualização conceitual assistidos por IA, não TCCs acadêmicos ou pesquisas revisadas por pares. / Each of the 11 areas includes an expandable reading folder with introduction, foundations, illustrative application and conclusions. AI-assisted conceptual context, not academic theses or peer-reviewed research. As 22 pastas de leitura (11 miniartigos temáticos + 11 leituras ampliadas) iniciam fechadas. Os 11 desafios e 11 mini laboratórios permanecem acessíveis independentemente da leitura. / All 22 reading folders (11 thematic mini articles + 11 expanded readings) start collapsed. The 11 challenges and 11 mini labs remain independently accessible.
 
 ## Português
 
 O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
 
-**O portal publica somente resumos dos dez módulos.** Para solicitar os arquivos completos, entre em contato diretamente com [Kaio Gabriel da Silva pelo LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) e combine as condições de acesso. Não há download público do acervo.
+**O portal publica apenas amostras do Volume 00 e dos dez módulos, com leituras e demonstrações interativas.** Para solicitar os arquivos completos, entre em contato diretamente com [Kaio Gabriel da Silva pelo LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) e combine as condições de acesso. Não há download público do acervo.
 
 | Módulo | Guia público (resumo) | Temas |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ O Genesis não é uma instituição de ensino e não oferece cursos, aulas, matr
 
 Project Genesis 4000 is an independent AI-assisted study and research initiative by K&G Vision. Its collection consists of **75 complete PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents**. The 4,000 nominal self-study hours are estimates, not certified hours.
 
-Only short previews of the ten modules are published on the [portal](https://kgasil.github.io/genesis/#guias). To request the complete files and discuss access conditions, [contact Kaio Gabriel da Silva directly on LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). No public PDF downloads are provided.
+Only public reading previews and interactive demonstrations for Volume 00 and the ten modules are available in the [library](https://kgasil.github.io/genesis/biblioteca.html). To request the complete files and discuss access conditions, [contact Kaio Gabriel da Silva directly on LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). No public PDF downloads are provided.
 
 The materials support independent study across data, software, infrastructure, AI engineering, cybersecurity and AI assurance. Career examples are illustrative; employment and qualifications are not guaranteed. Genesis is not an educational institution and provides no courses, classes, enrollment, tutoring, diplomas or certificates.
 
@@ -56,7 +56,7 @@ The materials support independent study across data, software, infrastructure, A
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
-| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75-document study collection; 10 public previews / Acervo de 75 documentos; 10 resumos públicos |
+| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
 | Project Vision | [Security & Efficiency](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
 | Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Local metrics prototype; business suite planned / Protótipo local de indicadores; aplicação empresarial em planejamento |
@@ -66,7 +66,7 @@ The materials support independent study across data, software, infrastructure, A
 ## Website
 
 - `index.html` — bilingual, responsive catalog of ten module summaries.
-- `biblioteca.html` — eleven reading folders and interactive mini tools (no backend).
+- `biblioteca.html` — eleven module areas (V00 + M01–M10), 22 collapsible reading folders, 11 mini labs, 11 explained challenges, bilingual search and optional local reading marks (no backend).
 - `assets/genesis-symbol.svg` — orbital spark.
 - `assets/brand-banner.svg` — project identity.
 
