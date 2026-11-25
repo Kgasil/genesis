@@ -45,8 +45,9 @@ Genesis is not an educational institution, has no official academic recognition,
 | Project Genesis | [O Princípio](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
 | Project Vision | [Beyond Boundaries](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Naturally good. / Naturalmente bom.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
+| Project Lilium | [Where strategy meets intelligence.](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Business intelligence web app concept / Aplicação web de inteligência empresarial em planejamento |
 
-**Learn · Build · Simplify / Aprender · Construir · Simplificar**
+**Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
 ## Website
 
