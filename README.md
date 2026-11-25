@@ -18,6 +18,8 @@
 
 **Leituras ampliadas / Expanded readings:** 11 artigos com quatro seções temáticas cada, totalizando 4.020 palavras em português e 3,520 em inglês, baseados nos dez guias integrados e no V00. Abra uma pasta para ler o artigo completo antes dos mini laboratórios. / 11 articles with four thematic sections each, based on the ten integrated guides and Volume 00. Open a folder to read the full article before the mini labs. Os PDFs integrais continuam privados. / Full PDFs remain private.
 
+**Miniartigos temáticos / Thematic mini articles:** cada uma das 11 áreas contém uma pasta interna expansível com introdução e definição, fundamentos, aplicação ilustrativa e considerações finais. Textos de contextualização conceitual assistidos por IA, não TCCs acadêmicos ou pesquisas revisadas por pares. / Each of the 11 areas includes an expandable reading folder with introduction, foundations, illustrative application and conclusions. AI-assisted conceptual context, not academic theses or peer-reviewed research. Os desafios e mini ferramentas permanecem disponíveis. / Challenges and mini tools remain available.
+
 ## Português
 
 O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
