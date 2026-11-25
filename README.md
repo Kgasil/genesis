@@ -10,40 +10,41 @@
 
 ## Português
 
-O Project Genesis é um projeto próprio e independente de estudos, pesquisa e compartilhamento de conhecimento. Nasceu da nossa vontade de aprender, melhorar nossas competências, explorar ciência e tecnologia e ajudar outras pessoas a estudar por conta própria.
+O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
 
-### O que está disponível hoje
+**O portal publica somente resumos dos dez módulos.** Para solicitar os arquivos completos, entre em contato diretamente com [Kaio Gabriel da Silva pelo LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) e combine as condições de acesso. Não há download público do acervo.
 
-A apresentação pública da iniciativa, seus objetivos e os temas que estudamos. Nenhum guia está disponível para download neste momento.
+| Módulo | Guia público (resumo) | Temas |
+| --- | --- | --- |
+| 01 | [Digital Foundations](https://kgasil.github.io/genesis/#modulo-01) | Computadores, lógica, Git, Python, Java e estruturas de dados. |
+| 02 | [Data Intelligence](https://kgasil.github.io/genesis/#modulo-02) | Estatística, SQL, pandas, Power BI, DAX e pipelines ETL. |
+| 03 | [Software Engineering](https://kgasil.github.io/genesis/#modulo-03) | Redes, HTTP, frontend, APIs, testes, QA e automação. |
+| 04 | [Cyber Defense](https://kgasil.github.io/genesis/#modulo-04) | Linux, riscos, identidade, criptografia, redes, SOC e resposta a incidentes. |
+| 05 | [Advanced Cybersecurity](https://kgasil.github.io/genesis/#modulo-05) | Zero Trust, Secure Coding, Threat Modeling, AppSec, testes autorizados, forense e GRC. |
+| 06 | [Artificial Intelligence Engineering](https://kgasil.github.io/genesis/#modulo-06) | ML, deep learning, IA generativa, LLMs, RAG, agentes e avaliação de IA. |
+| 07 | [Enterprise Technology Engineering](https://kgasil.github.io/genesis/#modulo-07) | Cloud, Docker, Kubernetes, DevSecOps, segurança de dependências, MLOps e observabilidade. |
+| 08 | [Advanced Computer Science & Applied Mathematics](https://kgasil.github.io/genesis/#modulo-08) | Lógica formal, álgebra linear, cálculo, otimização, probabilidade, algoritmos e sistemas distribuídos. |
+| 09 | [Advanced AI & Cybersecurity Research](https://kgasil.github.io/genesis/#modulo-09) | ML e deep learning avançados, Transformers, LLMs, RL, privacidade e robustez. |
+| 10 | [Advanced AI Security, Research & Innovation Engineering](https://kgasil.github.io/genesis/#modulo-10) | Metodologia científica, arquitetura de IA, segurança, privacidade, AI Assurance, auditoria e simulação. |
 
-### O que pretendemos compartilhar
+Os resumos incluem exemplos de prática e conhecimentos úteis para áreas como dados, BI, software, infraestrutura, automação, engenharia de IA, segurança e avaliação de modelos. Não garantem emprego ou habilitação profissional.
 
-- 10 guias de revisão do conteúdo principal, dentre 75 documentos planejados para nosso acervo de estudos.
-- Referências e links de terceiros, priorizando recursos gratuitos.
-- Sugestões de temas de estudo e ideias de prática independente.
-
-Os guias serão publicados somente após revisão técnica, editorial e de direitos autorais. Os demais documentos permanecem internos.
-
-### Limites do projeto
-
-Não somos uma instituição de ensino e não possuímos reconhecimento acadêmico oficial. Não oferecemos formação, cursos próprios, aulas, matrículas, tutoria, avaliações, diplomas ou certificados. Eventuais cursos recomendados são de terceiros. O portal não tem finalidade comercial.
+O Genesis não é uma instituição de ensino e não oferece cursos, aulas, matrículas, tutoria, diplomas ou certificados. Os materiais são destinados a estudo independente, com revisão crítica e práticas autorizadas.
 
 ## English
 
-Project Genesis turns curiosity into disciplined learning and knowledge into practical engineering. Our independent study and research initiative is designed to deepen technical competence, explore science and technology, and share useful reviewed knowledge for self-directed learners.
+Project Genesis 4000 is an independent AI-assisted study and research initiative by K&G Vision. Its collection consists of **75 complete PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents**. The 4,000 nominal self-study hours are estimates, not certified hours.
 
-**Available now:** the project overview and topics we study. No guides are available for download yet.
+Only short previews of the ten modules are published on the [portal](https://kgasil.github.io/genesis/#guias). To request the complete files and discuss access conditions, [contact Kaio Gabriel da Silva directly on LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). No public PDF downloads are provided.
 
-**Planned:** 10 public review guides from our planned collection of 75 documents, external references, free third-party resource recommendations, and ideas for independent practice. Publication is subject to technical, editorial and copyright review. Other documents remain internal.
-
-Genesis is not an educational institution, has no official academic recognition, and does not offer formal training, its own courses, classes, enrollment, tutoring, assessments, diplomas or certificates. The portal is non-commercial.
+The materials support independent study across data, software, infrastructure, AI engineering, cybersecurity and AI assurance. Career examples are illustrative; employment and qualifications are not guaranteed. Genesis is not an educational institution and provides no courses, classes, enrollment, tutoring, diplomas or certificates.
 
 ## Ecosystem / Ecossistema
 
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
-| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
+| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75-document study collection; 10 public previews / Acervo de 75 documentos; 10 resumos públicos |
 | Project Vision | [Security & Efficiency](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
 | Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Local metrics prototype; business suite planned / Protótipo local de indicadores; aplicação empresarial em planejamento |
@@ -52,11 +53,11 @@ Genesis is not an educational institution, has no official academic recognition,
 
 ## Website
 
-- `index.html` — bilingual, responsive study project preview.
+- `index.html` — bilingual, responsive catalog of ten module summaries.
 - `assets/genesis-symbol.svg` — orbital spark.
 - `assets/brand-banner.svg` — project identity.
 
-Open `index.html` in a browser; no backend or build step is required. The site is configured for GitHub Pages from `main` at `/ (root)`. The public repository does not include internal study documents.
+Open `index.html` in a browser; no backend or build step is required. The site is configured for GitHub Pages from `main` at `/ (root)`. The public repository contains previews only; full PDFs are requested directly from the owner.
 
 Public visibility is not a license to redistribute materials. License terms are not yet specified.
 
