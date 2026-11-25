@@ -9,49 +9,47 @@
 
 ## Português
 
-O Project Genesis é a iniciativa independente de formação científica e tecnológica da K&G Vision. Nasceu como uma iniciativa própria para aprender, aprimorar nossas competências, explorar cada vez mais a ciência e a tecnologia e ajudar outras pessoas a evoluir na área. Buscamos desenvolver fundamentos sólidos para pesquisa, engenharia de software, dados, inteligência artificial e segurança.
+O Project Genesis é um projeto próprio e independente de estudos, pesquisa e compartilhamento de conhecimento. Nasceu da nossa vontade de aprender, melhorar nossas competências, explorar ciência e tecnologia e ajudar outras pessoas a estudar por conta própria.
 
-### Formação planejada
+### O que está disponível hoje
 
-| Indicador | Planejamento |
-| --- | ---: |
-| Módulos | 10 |
-| Disciplinas | 60 |
-| Documentos previstos | 75 |
-| Guias públicos de revisão previstos | 10 |
-| Carga de estudo aproximada | 4.000 horas |
+A apresentação pública da iniciativa, seus objetivos e os temas que estudamos. Nenhum guia está disponível para download neste momento.
 
-Estes números descrevem a estrutura interna planejada, não um curso público disponível, uma qualificação acreditada ou uma oferta de matrícula.
+### O que pretendemos compartilhar
 
-### Portal público
+- 10 guias de revisão do conteúdo principal, dentre 75 documentos planejados para nosso acervo de estudos.
+- Referências e links de terceiros, priorizando recursos gratuitos.
+- Sugestões de temas de estudo e ideias de prática independente.
 
-O website está em construção e receberá progressivamente trilhas de aprendizado, 10 guias de revisão do conteúdo principal, recomendações de cursos gratuitos, referências e projetos práticos. Dos 75 documentos previstos, somente esses 10 guias de revisão serão publicados no portal após revisão. Nenhum guia, curso completo, livro interno ou avaliação privada está disponível nesta versão.
+Os guias serão publicados somente após revisão técnica, editorial e de direitos autorais. Os demais documentos permanecem internos.
 
-A publicação de materiais depende de revisão técnica, editorial e de direitos autorais. O acervo completo permanece separado do portal público. O Genesis é uma iniciativa própria e independente, atualmente sem reconhecimento oficial. Não é uma universidade ou instituição de ensino oficialmente reconhecida e não emite certificados, diplomas ou títulos acadêmicos. O portal tem finalidade educativa, não comercial.
+### Limites do projeto
 
-### Ecossistema
-
-- [K&G Vision](https://kgasil.github.io/) — iniciativa institucional.
-- [Project Vision](https://kgasil.github.io/vision/) — pesquisa e engenharia de IA.
-- Project Genesis — formação e conhecimento.
-- Project Aeris — ferramentas de produtividade em planejamento.
+Não somos uma instituição de ensino e não possuímos reconhecimento acadêmico oficial. Não oferecemos formação, cursos próprios, aulas, matrículas, tutoria, avaliações, diplomas ou certificados. Eventuais cursos recomendados são de terceiros. O portal não tem finalidade comercial.
 
 ## English
 
-Project Genesis is the independent scientific and technological learning initiative of K&G Vision. It is a self-directed initiative to learn, improve our skills, explore science and technology, and help others grow. Its planned internal curriculum comprises 10 modules, 60 disciplines, 75 documents and approximately 4,000 study hours.
+Project Genesis is our self-directed, independent study and research project. We aim to improve our own skills, explore science and technology, and share useful knowledge with others.
 
-The public portal will gradually present learning paths, 10 review guides of the core content, free course recommendations, references and practical projects after review. Only those 10 review guides of the 75 planned documents will be public after review. Full books, private assessments and unrevised materials are excluded. No guides are available for download yet. Genesis is not officially recognized and does not issue certificates, diplomas or academic degrees. The portal is educational and non-commercial.
+**Available now:** the project overview and topics we study. No guides are available for download yet.
 
-Our guiding philosophy: **Learn · Build · Simplify.**
+**Planned:** 10 public review guides from our planned collection of 75 documents, external references, free third-party resource recommendations, and ideas for independent practice. Publication is subject to technical, editorial and copyright review. Other documents remain internal.
+
+Genesis is not an educational institution, has no official academic recognition, and does not offer formal training, its own courses, classes, enrollment, tutoring, assessments, diplomas or certificates. The portal is non-commercial.
+
+## Ecosystem
+
+- [K&G Vision](https://kgasil.github.io/) — independent technology initiative.
+- [Project Vision](https://kgasil.github.io/vision/) — AI research and engineering.
+- Project Genesis — independent studies and knowledge sharing.
+- Project Aeris — planned productivity tools.
 
 ## Website
 
-- `index.html` — bilingual, responsive institutional learning portal preview.
-- `assets/genesis-symbol.svg` — orbital spark symbol.
+- `index.html` — bilingual, responsive study project preview.
+- `assets/genesis-symbol.svg` — orbital spark.
 - `assets/brand-banner.svg` — project identity.
 
-Open `index.html` locally in a browser; no backend or build step is required. GitHub Pages deployment uses the `main` branch and root directory.
+Open `index.html` in a browser; no backend or build step is required. The public repository does not include internal study documents.
 
-Public repository visibility is not a license to redistribute materials. License terms are not yet specified.
-
-[GitHub](https://github.com/Kgasil) · [K&G Vision](https://kgasil.github.io/)
+Public visibility is not a license to redistribute materials. License terms are not yet specified.
