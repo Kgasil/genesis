@@ -61,7 +61,11 @@ Public visibility is not a license to redistribute materials. License terms are 
 
 ## Identidade K&G Vision / K&G Vision identity
 
-[![K&G Vision — Four-project identity](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg)](https://kgasil.github.io/)
+[![K&G Vision — stacked wordmark, four-project identity](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg)](https://kgasil.github.io/)
+
+[Versão vertical / Vertical lockup](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/brand-stacked.svg) · [Escudo / Shield](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/kg-symbol.svg)
+
+Official visual lockup: **K&G** above **Vision**; individual project symbols are retained. / Assinatura visual oficial: **K&G** acima de **Vision**, mantendo os símbolos individuais dos projetos.
 
 **Genesis (purple) · Vision (blue) · Aeris (green) · Lilium (rose)**
 
