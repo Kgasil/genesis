@@ -35,3 +35,6 @@ Auditoria estática e integridade: concluídas. Causa do alerta: pendente. Novo 
 
 ## Confirmação CI
 [Execução 45877654740](https://github.com/Kgasil/genesis/actions/runs/45877654740), commit `3ce4bb6f6a768fb9b11668f4f798599209aedf3c`: concluída com sucesso. Verificador Python do ZIP original, sintaxe de core.js e ui.js, e testes Node aprovados. Runner Linux; não é scan Defender nem validação de instalação em Windows.
+
+## Evidência adicional do titular (26/11/2026)
+Captura do Histórico de proteção confirma evento do Defender Antivirus às 15:18: ameaça bloqueada, Grave, Cavalo de Tróia, Removido, no ZIP Genesis-Mini-v0.1.0-install.zip proveniente do raw oficial do main. Nome específico, ThreatID, definições e hash do arquivo afetado não visíveis. Não é somente aviso SmartScreen; falso positivo não confirmado. [Incidente #1](https://github.com/Kgasil/genesis/issues/1) atualizado. Captura original não publicada para proteger dados pessoais. Sem restauração de quarentena, alteração do ZIP, novo scan ou envio à Microsoft. Preservar backup e manter suspensão de instalação.
