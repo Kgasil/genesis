@@ -10,6 +10,8 @@
 
 > **Marco 1.0 — Acervo editorial e biblioteca pública / Editorial collection and public library.** 75 PDFs privados, 3.277 páginas, 60 volumes, 10 guias e 5 complementos; 11 áreas públicas com leituras e demonstrações. Não é curso ou certificação; a conclusão editorial não equivale à conclusão dos estudos.
 
+**Papel no ecossistema / Ecosystem role:** No ecossistema K&G Vision, o Genesis oferece fundamentos e referências de estudo para orientar futuras iniciativas de pesquisa e desenvolvimento. / Within the K&G Vision ecosystem, Genesis provides learning foundations and references to inform future research and development.
+
 ## Biblioteca interativa / Interactive library
 
 [**Abrir as 11 pastas de leitura e mini ferramentas / Explore all 11 reading folders and mini tools**](https://kgasil.github.io/genesis/biblioteca.html)
