@@ -59,7 +59,7 @@ The materials support independent study across data, software, infrastructure, A
 | Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
 | Project Vision | [Security and Development](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
-| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Interactive browser lab and local Workspace v0.14 preview; Windows validation pending / Laboratório interativo e prévia local do Workspace v0.14; validação Windows pendente |
+| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Initial development complete; Windows v0.14.0 preview validated in CI, manual acceptance pending. / Desenvolvimento inicial concluído; prévia Windows v0.14.0 validada em CI, aceitação manual pendente. |
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
@@ -85,3 +85,5 @@ Official visual lockup: **K&G** above **Vision**; individual project symbols are
 **Genesis (purple) · Vision (blue) · Aeris (green) · Lilium (rose)**
 
 [Lilium Interactive Lab / Laboratório interativo](https://kgasil.github.io/lilium/#lab) · [Insights CSV demo](https://kgasil.github.io/lilium/demo.html) — browser-based synthetic exercises; no connected AI or commercial offering.
+
+**25 NOV 2026 — Lilium development milestone / Marco de desenvolvimento:** [Comunicado / Announcement](https://kgasil.github.io/lilium/#novidades) · 100 Python + 401 Node.js checks passed; remediated Windows preview, not public V1.0. / 501 verificações aprovadas; prévia corrigida, aceitação manual pendente.
