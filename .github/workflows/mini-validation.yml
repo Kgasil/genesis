@@ -5,6 +5,9 @@ on:
       - 'extension/**'
       - 'mini/**'
       - 'tests/mini.test.js'
+      - 'tests/verify_mini_package.py'
+      - 'downloads/Genesis-Mini-v0.1.0-install.zip'
+      - 'downloads/SHA256SUMS.txt'
       - '.github/workflows/mini-validation.yml'
   workflow_dispatch:
 permissions:
@@ -17,6 +20,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: python3 tests/verify_mini_package.py
       - run: node --check extension/core.js
       - run: node --check extension/ui.js
       - run: node tests/mini.test.js
