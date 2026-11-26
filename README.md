@@ -22,6 +22,29 @@
 
 **Miniartigos temáticos / Thematic mini articles:** cada uma das 11 áreas contém uma pasta interna expansível com introdução e definição, fundamentos, aplicação ilustrativa e considerações finais. Textos de contextualização conceitual assistidos por IA, não TCCs acadêmicos ou pesquisas revisadas por pares. / Each of the 11 areas includes an expandable reading folder with introduction, foundations, illustrative application and conclusions. AI-assisted conceptual context, not academic theses or peer-reviewed research. As 22 pastas de leitura (11 miniartigos temáticos + 11 leituras ampliadas) iniciam fechadas. Os 11 desafios e 11 mini laboratórios permanecem acessíveis independentemente da leitura. / All 22 reading folders (11 thematic mini articles + 11 expanded readings) start collapsed. The 11 challenges and 11 mini labs remain independently accessible.
 
+## Genesis Mini — apoio ao estudo / study companion (0.1.0)
+
+Complemento gratuito, sem novo marco, sem mudanças no acervo, módulos ou versões existentes. / Free complementary sample; no new milestone or changes to the collection, modules or existing versions.
+
+| Recurso / Tool | Acesso / Access |
+| --- | --- |
+| **Mini Lab** — leitura em blocos, estimativa de tempo, roteiro de exercícios e comparação numérica com referência fornecida pelo usuário / reading blocks, time estimate, exercise checklist and numeric comparison | [Abrir aplicativo / Open app](https://kgasil.github.io/genesis/mini/) |
+| **Mini Extension** — leitura e roteiro de exercícios / reading and exercise checklist | [Baixar ZIP / Download ZIP](https://github.com/Kgasil/genesis/raw/refs/heads/main/downloads/Genesis-Mini-v0.1.0-install.zip) · [Tutorial](https://kgasil.github.io/genesis/#instalar-extensao) |
+
+### Instalação manual / Manual installation
+
+1. Baixe e extraia o ZIP em uma pasta permanente.
+2. Abra `chrome://extensions/` ou `edge://extensions/` no computador.
+3. Ative o modo desenvolvedor, se permitido, e escolha Carregar sem compactação.
+4. Selecione a pasta que contém `manifest.json`.
+5. Abra Genesis Mini e use o exemplo de leitura ou exercício.
+
+English: download and extract the ZIP, open the browser extensions page, enable Developer mode if permitted, choose Load unpacked and select the extracted folder containing manifest.json. Open Genesis Mini. Reload to update; Remove to uninstall.
+
+Sem conta, IA conectada, envio automático, permissões especiais ou armazenamento persistente. Não acessa PDFs automaticamente nem oferece respostas prontas, tutoria, notas ou certificados. Teste manual de navegador pendente; não publicado nas lojas. / Local-only, no account, connected AI, automatic transmission, special permissions or persistent storage. No automatic PDF access, answer generation, tutoring, grades or certificates. Manual browser testing pending; not in stores.
+
+**Validação / Validation:** 19 verificações determinísticas em `node tests/mini.test.js`. [Documentação da extensão](extension/README.md).
+
 ## Português
 
 O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
