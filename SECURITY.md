@@ -10,4 +10,11 @@
 - Uma detecção deve ser investigada, corrigida se procedente ou submetida à [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/filesubmission) como possível falso positivo. Não alterar arquivos somente para escapar de detecção. / Investigate and remediate real detections or submit suspected false positives to Microsoft; do not change files solely to evade detection.
 - Nenhuma versão deve ser anunciada como aprovada por antivírus sem evidência vinculada ao hash do pacote final, data, produto, versão das definições e resultado. / Never advertise antivirus approval without evidence tied to the exact final artifact hash, date, product, definition version and result.
 
-**Genesis Mini 0.1.0:** download direto retirado do site e READMEs enquanto se investiga alerta relatado no Defender (26/11/2026). ZIP original preservado para análise; não instalar até esclarecimento. / Direct download links paused pending investigation; original package retained for analysis. Do not install pending clarification.
+> [!WARNING]
+> **AVISO IMPORTANTE DE SEGURANÇA — Genesis Mini 0.1.0 (26/11/2026)**
+>
+> O Microsoft Defender detectou o pacote ZIP 0.1.0 como Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), com alerta grave, e removeu o arquivo. Estamos investigando a causa e preparando a solicitação de análise oficial à Microsoft. Não há confirmação de falso positivo ou liberação. Nunca recomendamos desativar o Windows Defender, ignorar alertas ou restaurar arquivos em quarentena. A instalação permanece suspensa; o laboratório web está disponível sem instalação.
+>
+> Microsoft Defender detected the 0.1.0 ZIP as Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), rated severe, and removed the file. We are investigating the cause and preparing an official review request to Microsoft. No false-positive determination or clearance has been confirmed. We never recommend disabling Windows Defender, bypassing warnings or restoring quarantined files. Installation remains paused; the web lab is available without installation.
+>
+> [Incidente oficial](https://github.com/Kgasil/genesis/issues/1) · [Mini Lab web](https://kgasil.github.io/genesis/mini/)
