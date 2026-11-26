@@ -1,0 +1,22 @@
+name: Genesis Mini validation
+on:
+  push:
+    paths:
+      - 'extension/**'
+      - 'mini/**'
+      - 'tests/mini.test.js'
+      - '.github/workflows/mini-validation.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --check extension/core.js
+      - run: node --check extension/ui.js
+      - run: node tests/mini.test.js

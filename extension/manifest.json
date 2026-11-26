@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Genesis Mini",
+  "version": "0.1.0",
+  "description": "Apoio local à leitura e resolução guiada de exercícios.",
+  "action": {
+    "default_title": "Genesis Mini",
+    "default_popup": "popup.html"
+  }
+}

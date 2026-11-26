@@ -1,0 +1,23 @@
+"use strict";
+const assert=require("node:assert/strict"),g=require("../extension/core.js");let n=0;
+function test(name,fn){fn();n++;console.log("OK "+name);}
+test("words",()=>assert.equal(g.reading("A média é seis.").count,4));
+test("duration",()=>assert.equal(g.reading(Array(181).fill("a").join(" "),180).minutes,2));
+test("paragraph",()=>assert.equal(g.reading("Primeiro.\n\nSegundo.").blocks.length,2));
+test("long block",()=>assert.equal(g.reading(Array(161).fill("a").join(" ")).blocks.length,3));
+test("empty",()=>assert.throws(()=>g.reading(" ")));
+test("speed low",()=>assert.throws(()=>g.reading("x",0)));
+test("speed high",()=>assert.throws(()=>g.reading("x",601)));
+test("limit",()=>assert.throws(()=>g.reading("x".repeat(20001))));
+test("exercise",()=>assert.equal(g.exercise("Qual a média?","").steps.length,5));
+test("attempt",()=>assert.equal(g.exercise("Q"," Minha tentativa ").attempt,"Minha tentativa"));
+test("missing question",()=>assert.throws(()=>g.exercise("","x")));
+test("equal",()=>assert.ok(g.check("18","18","0").match));
+test("decimal comma",()=>assert.ok(g.check("1,5","1.5","0").match));
+test("tolerance",()=>assert.ok(g.check("1.1","1","0.1").match));
+test("mismatch",()=>assert.equal(g.check("2","1","0.1").match,false));
+test("negative",()=>assert.ok(g.check("-1","-1","0").match));
+test("invalid",()=>assert.throws(()=>g.check("1+1","2","0")));
+test("negative tolerance",()=>assert.throws(()=>g.check("1","1","-1")));
+test("empty number",()=>assert.throws(()=>g.check("","0","0")));
+console.log(n+" checks passed");

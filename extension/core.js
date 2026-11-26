@@ -1,0 +1,10 @@
+/* Genesis Mini 0.1.0 — local study helpers. */
+(function(root){"use strict";
+const LIMIT=20000;
+function valid(s){if(typeof s!=="string"||s.length>LIMIT)throw Error("Informe um texto de até 20.000 caracteres.");return s.trim();}
+function words(s){return valid(s).match(/[\p{L}\p{N}]+(?:[-'][\p{L}\p{N}]+)*/gu)||[];}
+function reading(text,speed=180){const s=valid(text);if(!s)throw Error("Insira um texto.");if(!Number.isFinite(speed)||speed<60||speed>600)throw Error("Velocidade entre 60 e 600 palavras/minuto.");const count=words(s).length;return {count,minutes:Math.max(1,Math.ceil(count/speed)),blocks:s.split(/\n\s*\n/).flatMap(p=>{const w=p.trim().split(/\s+/);const out=[];for(let i=0;i<w.length;i+=80){const b=w.slice(i,i+80).join(" ");if(b)out.push(b)}return out})};}
+function exercise(question,attempt){const q=valid(question);if(!q)throw Error("Insira o enunciado.");const a=valid(attempt);return {question:q,attempt:a,steps:["Reescreva com suas palavras o que o exercício pede.","Liste os dados disponíveis, incógnitas e restrições.","Identifique o conceito ou fórmula aplicável. Consulte a leitura de referência.","Resolva uma etapa por vez, registrando o raciocínio.","Confira unidades, condições e resultado. Explique por que a solução faz sentido."]};}
+function decimal(s){if(typeof s!=="string"||!/^[-+]?(?:\d+(?:[.,]\d+)?|[.,]\d+)$/.test(s.trim()))throw Error("Use números decimais simples, sem separador de milhares.");const n=Number(s.trim().replace(",","."));if(!Number.isFinite(n))throw Error("Número inválido.");return n;}
+function check(answer,expected,tolerance){const a=decimal(answer),e=decimal(expected),t=decimal(tolerance);if(t<0)throw Error("A tolerância deve ser positiva ou zero.");const difference=Math.abs(a-e);if(!Number.isFinite(difference))throw Error("Valores fora do intervalo suportado.");return {difference,match:difference<=t+Number.EPSILON*Math.max(1,Math.abs(a),Math.abs(e))};}
+const api={reading,exercise,check,LIMIT};if(typeof module!=="undefined"&&module.exports)module.exports=api;else root.GenesisMini=api;})(typeof globalThis!=="undefined"?globalThis:this);
