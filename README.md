@@ -2,6 +2,11 @@
 
 # Project Genesis — Sabedoria e Aplicação
 
+<!-- kg-personal-portfolio-v1 -->
+
+**Idealizador / Creator:** [Kaio Gabriel da Silva — KG Professional Portfolio 1.0](https://kgasil.github.io/portfolio/) · [GitHub](https://github.com/Kgasil) · [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). Portfólio pessoal independente do projeto / Personal portfolio separate from this project.
+
+
 **Wisdom & Application · Sabedoria e Aplicação**  
 *Learn with rigor. Build with purpose.*  
 *by K&G Vision*
