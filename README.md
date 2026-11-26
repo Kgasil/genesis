@@ -59,7 +59,7 @@ The materials support independent study across data, software, infrastructure, A
 | Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
 | Project Vision | [Security and Development](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
-| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Web Lab 1.0 public demonstration; Windows v0.14.0 preview, detailed manual acceptance pending. / Web Lab 1.0 demonstrativo público; prévia Windows v0.14.0, aceitação manual detalhada pendente. |
+| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Web Lab 1.0 public demo; Desktop v0.14.0 controlled preview; [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) GitHub-only experimental extension. / Web Lab 1.0 público; Desktop v0.14.0 em prévia controlada; Mini v0.1.1 experimental pelo GitHub. |
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
@@ -85,5 +85,7 @@ Official visual lockup: **K&G** above **Vision**; individual project symbols are
 **Genesis (purple) · Vision (blue) · Aeris (green) · Lilium (rose)**
 
 [Lilium Interactive Lab / Laboratório interativo](https://kgasil.github.io/lilium/#lab) · [Insights CSV demo](https://kgasil.github.io/lilium/demo.html) — browser-based synthetic exercises; no connected AI or commercial offering.
+
+**Lilium Mini v0.1.1 — GitHub-only / exclusivamente pelo GitHub:** [Installation tutorial / Tutorial de instalação](https://github.com/Kgasil/lilium/tree/main/extension) · Chrome & Edge, manual installation with synthetic data / instalação manual com dados fictícios. Not published in extension stores / não publicado nas lojas.
 
 **25 NOV 2026 — Lilium Web Lab 1.0:** [Comunicado / Announcement](https://github.com/Kgasil/lilium/blob/main/docs/web-lab-v1.0.md) · Public browser demonstrations / Demonstrações públicas no navegador. Desktop v0.14.0 remains a controlled preview / continua em prévia controlada.
