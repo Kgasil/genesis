@@ -1,4 +1,11 @@
-> **Aviso de segurança / Security notice (26/11/2026):** download do Genesis Mini suspenso para investigar alerta relatado no Windows Defender. Não restaure arquivos em quarentena nem ignore alertas. Use o [Mini Lab web](https://kgasil.github.io/genesis/mini/) sem instalação. / Genesis Mini download paused pending investigation of a reported Windows Defender alert. Do not bypass warnings or restore quarantined files. Use the web Mini Lab.
+> [!WARNING]
+> **AVISO IMPORTANTE DE SEGURANÇA — Genesis Mini 0.1.0 (26/11/2026)**
+>
+> O Microsoft Defender detectou o pacote ZIP 0.1.0 como Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), com alerta grave, e removeu o arquivo. Estamos investigando a causa e preparando a solicitação de análise oficial à Microsoft. Não há confirmação de falso positivo ou liberação. Nunca recomendamos desativar o Windows Defender, ignorar alertas ou restaurar arquivos em quarentena. A instalação permanece suspensa; o laboratório web está disponível sem instalação.
+>
+> Microsoft Defender detected the 0.1.0 ZIP as Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), rated severe, and removed the file. We are investigating the cause and preparing an official review request to Microsoft. No false-positive determination or clearance has been confirmed. We never recommend disabling Windows Defender, bypassing warnings or restoring quarantined files. Installation remains paused; the web lab is available without installation.
+>
+> [Incidente oficial](https://github.com/Kgasil/genesis/issues/1) · [Mini Lab web](https://kgasil.github.io/genesis/mini/)
 
 # Genesis Mini — 0.1.0
 
