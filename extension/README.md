@@ -1,10 +1,12 @@
+> **Aviso de segurança / Security notice (26/11/2026):** download do Genesis Mini suspenso para investigar alerta relatado no Windows Defender. Não restaure arquivos em quarentena nem ignore alertas. Use o [Mini Lab web](https://kgasil.github.io/genesis/mini/) sem instalação. / Genesis Mini download paused pending investigation of a reported Windows Defender alert. Do not bypass warnings or restore quarantined files. Use the web Mini Lab.
+
 # Genesis Mini — 0.1.0
 
 Amostra complementar gratuita de apoio ao estudo autônomo. Leitura em blocos de até 80 palavras, ritmo estimado e roteiro genérico de resolução de exercícios. Não oferece respostas automáticas, tutoria, notas ou certificados. Não altera o marco original, os 75 PDFs privados nem os módulos do Genesis.
 
 ## Instalação manual (Chrome / Edge no computador)
 
-1. Baixe o [ZIP de instalação](https://github.com/Kgasil/genesis/raw/refs/heads/main/downloads/Genesis-Mini-v0.1.0-install.zip) e extraia em pasta permanente.
+1. **Instalação temporariamente suspensa.** Use o [Mini Lab web](https://kgasil.github.io/genesis/mini/) enquanto o pacote é investigado. As etapas abaixo são mantidas apenas como referência para uma futura versão validada.
 2. Abra `chrome://extensions/` ou `edge://extensions/`.
 3. Ative o modo desenvolvedor, se permitido, e clique em Carregar sem compactação.
 4. Selecione a pasta extraída que contém diretamente `manifest.json`.
