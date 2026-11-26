@@ -1,3 +1,5 @@
+> **Aviso de segurança / Security notice (26/11/2026):** download do Genesis Mini suspenso para investigar alerta relatado no Windows Defender. Não restaure arquivos em quarentena nem ignore alertas. Use o [Mini Lab web](https://kgasil.github.io/genesis/mini/) sem instalação. / Genesis Mini download paused pending investigation of a reported Windows Defender alert. Do not bypass warnings or restore quarantined files. Use the web Mini Lab.
+
 <p align="center"><a href="https://kgasil.github.io/genesis/"><img src="assets/readme-cover.svg" alt="Project Genesis — official project identity" width="760"></a></p>
 
 # Project Genesis — Sabedoria e Aplicação
@@ -39,7 +41,7 @@ Complemento gratuito, sem novo marco, sem mudanças no acervo, módulos ou vers�
 | Recurso / Tool | Acesso / Access |
 | --- | --- |
 | **Mini Lab** — leitura em blocos, estimativa de tempo, roteiro de exercícios e comparação numérica com referência fornecida pelo usuário / reading blocks, time estimate, exercise checklist and numeric comparison | [Abrir aplicativo / Open app](https://kgasil.github.io/genesis/mini/) |
-| **Mini Extension** — leitura e roteiro de exercícios / reading and exercise checklist | [Baixar ZIP / Download ZIP](https://github.com/Kgasil/genesis/raw/refs/heads/main/downloads/Genesis-Mini-v0.1.0-install.zip) · [Tutorial](https://kgasil.github.io/genesis/#instalar-extensao) |
+| **Mini Extension** — leitura e roteiro de exercícios / reading and exercise checklist | [Mini Lab web — sem instalação / no installation](https://kgasil.github.io/genesis/mini/) · [Tutorial](https://kgasil.github.io/genesis/#instalar-extensao) |
 
 ### Instalação manual / Manual installation
 
