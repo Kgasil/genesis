@@ -80,7 +80,7 @@ Only public reading previews and interactive demonstrations for Volume 00 and th
 
 The materials support independent study across data, software, infrastructure, AI engineering, cybersecurity and AI assurance. Career examples are illustrative; employment and qualifications are not guaranteed. Genesis is not an educational institution and provides no courses, classes, enrollment, tutoring, diplomas or certificates.
 
-## Ecosystem / Ecossistema — Marco 1.0
+## GRAAL — Ecosystem / Ecossistema · Marco 01
 
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
