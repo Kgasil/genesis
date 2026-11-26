@@ -59,7 +59,7 @@ The materials support independent study across data, software, infrastructure, A
 | Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
 | Project Vision | [Security and Development](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
-| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Initial development complete; Windows v0.14.0 preview validated in CI, manual acceptance pending. / Desenvolvimento inicial concluído; prévia Windows v0.14.0 validada em CI, aceitação manual pendente. |
+| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Web Lab 1.0 public demonstration; Windows v0.14.0 preview, detailed manual acceptance pending. / Web Lab 1.0 demonstrativo público; prévia Windows v0.14.0, aceitação manual detalhada pendente. |
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
@@ -86,4 +86,4 @@ Official visual lockup: **K&G** above **Vision**; individual project symbols are
 
 [Lilium Interactive Lab / Laboratório interativo](https://kgasil.github.io/lilium/#lab) · [Insights CSV demo](https://kgasil.github.io/lilium/demo.html) — browser-based synthetic exercises; no connected AI or commercial offering.
 
-**25 NOV 2026 — Lilium development milestone / Marco de desenvolvimento:** [Comunicado / Announcement](https://kgasil.github.io/lilium/#novidades) · 100 Python + 401 Node.js checks passed; remediated Windows preview, not public V1.0. / 501 verificações aprovadas; prévia corrigida, aceitação manual pendente.
+**25 NOV 2026 — Lilium Web Lab 1.0:** [Comunicado / Announcement](https://github.com/Kgasil/lilium/blob/main/docs/web-lab-v1.0.md) · Public browser demonstrations / Demonstrações públicas no navegador. Desktop v0.14.0 remains a controlled preview / continua em prévia controlada.
