@@ -32,3 +32,6 @@ Data: 2026-11-26. Escopo: análise estática e integridade do pacote original; s
 
 ## Estado
 Auditoria estática e integridade: concluídas. Causa do alerta: pendente. Novo scan Defender: não realizado. Aprovação de instalação/distribuição: não concedida. Sem custo, sem alteração do pacote original.
+
+## Confirmação CI
+[Execução 45877654740](https://github.com/Kgasil/genesis/actions/runs/45877654740), commit `3ce4bb6f6a768fb9b11668f4f798599209aedf3c`: concluída com sucesso. Verificador Python do ZIP original, sintaxe de core.js e ui.js, e testes Node aprovados. Runner Linux; não é scan Defender nem validação de instalação em Windows.
