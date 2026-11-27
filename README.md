@@ -35,7 +35,7 @@
 
 O Marco 1.0 permanece intacto: 75 PDFs privados, 4.000 horas nominais. Plano combinado: 115 documentos, meta de 5.280 páginas e 6.000 horas de estudo autônomo; não representa produção ou conclusão de estudos. PDFs integrais complementares não publicados. / Milestone 1.0 remains intact: 75 private PDFs, 4,000 nominal hours. Combined plan: 115 documents, target 5,280 pages and 6,000 self-study hours; not a claim of production or study completion. Complementary full PDFs are not published.
 
-**Progresso editorial / Editorial progress (27/11/2026):** C01–C06: seis edições de trabalho privadas, 50 páginas físicas cada; C01–C03 revisados com novos desafios. Revisão acadêmica e meta 9/10 pendentes; nenhum volume homologado. / Six private working editions, 50 physical pages each; C01–C03 revised with additional challenges. Academic review and 9/10 target pending; no volume approved.
+**Progresso editorial / Editorial progress (27/11/2026):** C01–C10: dez edições de trabalho privadas, 500 páginas físicas; C01–C06 aprofundados, C07–C10 produzidos. Revisão acadêmica e meta 9/10 pendentes; nenhum volume complementar homologado. / Ten private working editions, 500 physical pages; C01–C06 expanded, C07–C10 produced. Academic review and 9/10 target pending; no complementary volume approved.
 
 [Plano editorial / Editorial plan](docs/business-management-plan.md)
 

@@ -14,10 +14,10 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 | C04 | Vendas Consultivas, SPIN Selling e Diagnóstico | Consultative selling, SPIN and discovery | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C06 | Negociação, Objeções e Fechamento | Negotiation, objections and closing | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C07 | CRM, Pipeline e Gestão de Funil Comercial | CRM, pipeline and funnel management | 50 | Planejado |
-| C08 | Vendas B2B, B2C e Vendas Complexas | B2B, B2C and complex selling | 50 | Planejado |
-| C09 | Sales Operations, Indicadores e Estratégia Comercial | Sales operations, metrics and strategy | 50 | Planejado |
-| C10 | Gestão Comercial e Desenvolvimento de Negócios | Sales management and business development | 50 | Planejado |
+| C07 | CRM, Pipeline e Gestão de Funil Comercial | CRM, pipeline and funnel management | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C08 | Vendas B2B, B2C e Vendas Complexas | B2B, B2C and complex selling | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C09 | Sales Operations, Indicadores e Estratégia Comercial | Sales operations, metrics and strategy | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C10 | Gestão Comercial e Desenvolvimento de Negócios | Sales management and business development | 50 | Edição de trabalho (50 p.), revisão pendente |
 
 ## Finanças e Economia / Finance & Economics — 500h
 
@@ -81,7 +81,7 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 | Competências Estratégicas | 5 | 250 | 200 |
 | Total | 115 | 5280 | 6000 |
 
-O acervo original permanece separado. C01–C06: seis edições de trabalho privadas de 50 páginas físicas cada, 240 exercícios comentados, 18 miniavaliações e 48 laboratórios; C01–C03 receberam 24 desafios de transferência adicionais. Nesta etapa: 54 verificações estruturais e 51 numéricas selecionadas aprovadas; não equivalem à avaliação acadêmica integral. A revisão acadêmica e a comprovação da meta 9/10 continuam pendentes. Demais volumes planejados. Não preencher páginas artificialmente. E03 exige verificação de legislação oficial vigente e não constitui aconselhamento jurídico. E01–E05 aprofundam competências específicas, sem repetir as introduções de Comercial e Administração.
+O acervo original permanece separado. C01–C10: dez edições de trabalho privadas de 50 páginas físicas cada, total de 500 páginas, 400 exercícios comentados, 30 miniavaliações e 80 laboratórios/oficinas. C01–C06 preservaram o texto anterior e receberam 69 blocos de aprofundamento. C07–C10 produzidos. Nesta etapa: 86 verificações estruturais e 116 cálculos selecionados aprovados; as 500 páginas foram renderizadas automaticamente, com inspeção visual amostral. A revisão acadêmica, a comprovação da densidade conceitual e da meta 9/10 continuam pendentes. Nenhum volume complementar homologado. Demais volumes planejados. Não preencher páginas artificialmente. E03 exige verificação de legislação oficial vigente e não constitui aconselhamento jurídico. E01–E05 aprofundam competências específicas, sem repetir as introduções de Comercial e Administração.
 
 ## Sequência de execução
 C01–C10, F01–F10, A01–A10, ADM01–ADM05, E01–E05; revisão de dependências e projeto integrado ao fim de cada trilha. Caso fictício transversal: empresa de serviços de automação, sem dados pessoais reais.
