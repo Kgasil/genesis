@@ -8,9 +8,9 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 
 | ID | Tema | Topic | Horas | Estado |
 |---|---|---|---:|---|
-| C01 | Fundamentos de Vendas e Comportamento do Consumidor | Sales fundamentals and buyer behavior | 50 | Planejado |
-| C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Planejado |
-| C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Planejado |
+| C01 | Fundamentos de Vendas e Comportamento do Consumidor | Sales fundamentals and buyer behavior | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C04 | Vendas Consultivas, SPIN Selling e Diagnóstico | Consultative selling, SPIN and discovery | 50 | Planejado |
 | C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Planejado |
 | C06 | Negociação, Objeções e Fechamento | Negotiation, objections and closing | 50 | Planejado |
@@ -81,7 +81,7 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 | Competências Estratégicas | 5 | 250 | 200 |
 | Total | 115 | 5280 | 6000 |
 
-O acervo original permanece separado. C01: prévia de 17 páginas produzida, não homologada; demais volumes planejados. Não preencher páginas artificialmente. E03 exige verificação de legislação oficial vigente e não constitui aconselhamento jurídico. E01–E05 aprofundam competências específicas, sem repetir as introduções de Comercial e Administração.
+O acervo original permanece separado. C01–C03: três edições de trabalho privadas de 50 páginas físicas cada, 120 exercícios comentados, 9 miniavaliações e 24 laboratórios. A revisão acadêmica e a comprovação da meta 9/10 continuam pendentes. Demais volumes planejados. Não preencher páginas artificialmente. E03 exige verificação de legislação oficial vigente e não constitui aconselhamento jurídico. E01–E05 aprofundam competências específicas, sem repetir as introduções de Comercial e Administração.
 
 ## Sequência de execução
 C01–C10, F01–F10, A01–A10, ADM01–ADM05, E01–E05; revisão de dependências e projeto integrado ao fim de cada trilha. Caso fictício transversal: empresa de serviços de automação, sem dados pessoais reais.
