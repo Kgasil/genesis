@@ -1,9 +1,9 @@
 > [!WARNING]
 > **AVISO IMPORTANTE DE SEGURANÇA — Genesis Mini 0.1.0 (26/11/2026)**
 >
-> O Microsoft Defender detectou o pacote ZIP 0.1.0 como Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), com alerta grave, e removeu o arquivo. Estamos investigando a causa e preparando a solicitação de análise oficial à Microsoft. Não há confirmação de falso positivo ou liberação. Nunca recomendamos desativar o Windows Defender, ignorar alertas ou restaurar arquivos em quarentena. A instalação permanece suspensa; o laboratório web está disponível sem instalação.
+> O Microsoft Defender detectou o pacote ZIP 0.1.0 como Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), com alerta grave, e removeu o arquivo. A amostra foi submetida à Microsoft em 26/11/2026 para análise oficial; o parecer permanece pendente. Não há confirmação de falso positivo ou liberação. Nunca recomendamos desativar o Windows Defender, ignorar alertas ou restaurar arquivos em quarentena. A instalação permanece suspensa; o laboratório web está disponível sem instalação.
 >
-> Microsoft Defender detected the 0.1.0 ZIP as Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), rated severe, and removed the file. We are investigating the cause and preparing an official review request to Microsoft. No false-positive determination or clearance has been confirmed. We never recommend disabling Windows Defender, bypassing warnings or restoring quarantined files. Installation remains paused; the web lab is available without installation.
+> Microsoft Defender detected the 0.1.0 ZIP as Trojan:Script/Ulthar.A!ml (ThreatID 2147751841), rated severe, and removed the file. The sample was submitted to Microsoft on November 26, 2026 for official review; the verdict is pending. No false-positive determination or clearance has been confirmed. We never recommend disabling Windows Defender, bypassing warnings or restoring quarantined files. Installation remains paused; the web lab is available without installation.
 >
 > [Incidente oficial](https://github.com/Kgasil/genesis/issues/1) · [Mini Lab web](https://kgasil.github.io/genesis/mini/)
 
@@ -68,7 +68,7 @@ Sem conta, IA conectada, envio automático, permissões especiais ou armazenamen
 
 ## Português
 
-O Project Genesis 4000 é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
+O Project Genesis é uma iniciativa independente de estudos e pesquisa da K&G Vision, desenvolvida com assistência de IA. O acervo editorial reúne **75 PDFs completos, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e 5 documentos complementares**. A carga de 4.000 horas é nominal e estimada para estudo autônomo, não certificada.
 
 **O portal publica apenas amostras do Volume 00 e dos dez módulos, com leituras e demonstrações interativas.** Para solicitar os arquivos completos, entre em contato diretamente com [Kaio Gabriel da Silva pelo LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) e combine as condições de acesso. Não há download público do acervo.
 
@@ -91,7 +91,7 @@ O Genesis não é uma instituição de ensino e não oferece cursos, aulas, matr
 
 ## English
 
-Project Genesis 4000 is an independent AI-assisted study and research initiative by K&G Vision. Its collection consists of **75 complete PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents**. The 4,000 nominal self-study hours are estimates, not certified hours.
+Project Genesis is an independent AI-assisted study and research initiative by K&G Vision. Its collection consists of **75 complete PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents**. The 4,000 nominal self-study hours are estimates, not certified hours.
 
 Only public reading previews and interactive demonstrations for Volume 00 and the ten modules are available in the [library](https://kgasil.github.io/genesis/biblioteca.html). To request the complete files and discuss access conditions, [contact Kaio Gabriel da Silva directly on LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). No public PDF downloads are provided.
 
