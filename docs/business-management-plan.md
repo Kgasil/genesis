@@ -1,8 +1,8 @@
 # Project Genesis — Business & Management | Marco 02
 
-Status: planejamento aprovado; produção e homologação em etapas. 75 PDFs tecnológicos e 4.000h preservados. 35 novos volumes, 1.800h nominais, total planejado 110 documentos e 5.800h. Não é curso reconhecido, não confere diploma ou certificado.
+Status: planejamento aprovado; produção e homologação em etapas. 75 PDFs tecnológicos e 4.000h preservados. 40 novos volumes, 2.000h nominais, total planejado 115 documentos e 6.000h. Meta editorial total: 5.280 páginas (3.277 originais declaradas + 2.003 novas). Não é curso reconhecido, não confere diploma ou certificado.
 
-Cada volume: alvo 40–60 páginas (ADM 50–70), fundamentos, exemplos, 40 exercícios, 3 miniavaliações, gabarito comentado, projeto e fontes. Carga é estimada para estudo autônomo. Critérios de aceite: rigor 20%, profundidade 15%, aplicação 15%, didática 15%, fontes 10%, exercícios 10%, reprodutibilidade 10%, visual 5%; nota mínima 9/10 documentada; erros críticos impedem aprovação. Revisão de legislação brasileira datada nos volumes pertinentes. PDFs privados; portal publica apenas amostras. Não declarar aprovação antes de evidências.
+Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta de 51 páginas para reconciliar o total editorial, sujeita à qualidade e à contagem real, fundamentos, exemplos, 40 exercícios, 3 miniavaliações, gabarito comentado, projeto e fontes. Carga é estimada para estudo autônomo. Critérios de aceite: rigor 20%, profundidade 15%, aplicação 15%, didática 15%, fontes 10%, exercícios 10%, reprodutibilidade 10%, visual 5%; nota mínima 9/10 documentada; erros críticos impedem aprovação. Revisão de legislação brasileira datada nos volumes pertinentes. PDFs privados; portal publica apenas amostras. Não declarar aprovação antes de evidências.
 
 ## Comercial e Vendas / Sales & Business Development — 500h
 
@@ -59,5 +59,29 @@ Cada volume: alvo 40–60 páginas (ADM 50–70), fundamentos, exemplos, 40 exer
 | ADM04 | Estratégia e Empreendedorismo | Strategy and entrepreneurship | 60 | Planejado |
 | ADM05 | Governança e Gestão Empresarial Integrada | Governance and integrated management | 60 | Planejado |
 
+## Competências Estratégicas e Profissionais / Strategic and Professional Skills — 200h
+
+| ID | Tema | Topic | Horas | Estado |
+|---|---|---|---:|---|
+| E01 | Marketing Estratégico e Digital | Strategic and Digital Marketing | 40 | Planejado |
+| E02 | Gestão de Projetos e Produtos | Project and Product Management | 40 | Planejado |
+| E03 | Direito Empresarial e Contratos | Business Law and Contracts | 40 | Planejado |
+| E04 | Compras, Suprimentos e Logística | Procurement, Supply Chain and Logistics | 40 | Planejado |
+| E05 | Customer Success e Experiência do Cliente | Customer Success and Customer Experience | 40 | Planejado |
+
+## Inventário de páginas (metas, não produção)
+
+| Área | PDFs | Páginas | Horas |
+|---|---:|---:|---:|
+| Tecnologia e Ciência | 75 | 3277 | 4000 |
+| Comercial | 10 | 500 | 500 |
+| Finanças | 10 | 500 | 500 |
+| Contabilidade | 10 | 500 | 500 |
+| Administração | 5 | 253 | 300 |
+| Competências Estratégicas | 5 | 250 | 200 |
+| Total | 115 | 5280 | 6000 |
+
+O acervo original permanece separado. C01: prévia de 17 páginas produzida, não homologada; demais volumes planejados. Não preencher páginas artificialmente. E03 exige verificação de legislação oficial vigente e não constitui aconselhamento jurídico. E01–E05 aprofundam competências específicas, sem repetir as introduções de Comercial e Administração.
+
 ## Sequência de execução
-C01–C10, F01–F10, A01–A10, ADM01–ADM05; revisão de dependências e projeto integrado ao fim de cada trilha. Caso fictício transversal: empresa de serviços de automação, sem dados pessoais reais.
+C01–C10, F01–F10, A01–A10, ADM01–ADM05, E01–E05; revisão de dependências e projeto integrado ao fim de cada trilha. Caso fictício transversal: empresa de serviços de automação, sem dados pessoais reais.

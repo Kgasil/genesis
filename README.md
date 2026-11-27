@@ -31,9 +31,9 @@
 
 ## Marco 02 — Business & Management (em desenvolvimento / in development)
 
-[**Biblioteca de Negócios e Gestão / Business & Management library**](https://kgasil.github.io/genesis/business.html) — quatro leituras introdutórias públicas e catálogo de 35 volumes planejados: 10 comerciais, 10 financeiros, 10 contábeis e 5 administrativos. / Four public introductory readings and a catalog of 35 planned volumes: 10 sales, 10 finance, 10 accounting and 5 management.
+[**Biblioteca de Negócios e Gestão / Business & Management library**](https://kgasil.github.io/genesis/business.html) — cinco pastas de área com leituras introdutórias, 40 resumos de volumes planejados: 10 comerciais, 10 financeiros, 10 contábeis, 5 administrativos e 5 competências estratégicas. / Five area folders with introductory readings and 40 planned volume summaries: 10 sales, 10 finance, 10 accounting, 5 management and 5 strategic skills.
 
-O Marco 1.0 permanece intacto: 75 PDFs privados, 4.000 horas nominais. Plano combinado: 110 documentos e aproximadamente 5.800 horas de estudo autônomo; não representa produção ou conclusão de estudos. PDFs integrais complementares não publicados. / Milestone 1.0 remains intact: 75 private PDFs, 4,000 nominal hours. Combined plan: 110 documents and about 5,800 self-study hours; not a claim of production or study completion. Complementary full PDFs are not published.
+O Marco 1.0 permanece intacto: 75 PDFs privados, 4.000 horas nominais. Plano combinado: 115 documentos, meta de 5.280 páginas e 6.000 horas de estudo autônomo; não representa produção ou conclusão de estudos. PDFs integrais complementares não publicados. / Milestone 1.0 remains intact: 75 private PDFs, 4,000 nominal hours. Combined plan: 115 documents, target 5,280 pages and 6,000 self-study hours; not a claim of production or study completion. Complementary full PDFs are not published.
 
 [Plano editorial / Editorial plan](docs/business-management-plan.md)
 
