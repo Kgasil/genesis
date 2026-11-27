@@ -152,3 +152,11 @@ O escudo institucional preserva as quatro cores laterais e o núcleo branco; Rub
 
 
 **[Central de distribuição GRAAL / GRAAL distribution center](https://kgasil.github.io/distribuicao.html)** — versões, canais oficiais, limitações e estado de segurança / versions, official channels, limitations and security status.
+
+<!-- graal-governance-v1:start -->
+## Governança GRAAL / GRAAL governance
+
+[**Catálogo central de componentes, versões, segurança e maturidade / Central catalog of components, versions, security and maturity**](https://github.com/Kgasil/kgasil.github.io/blob/main/docs/graal-catalog.md) · [Central de distribuição / Distribution center](https://kgasil.github.io/distribuicao.html)
+
+O catálogo é a referência institucional para o estado atual; registros históricos e avisos específicos deste repositório permanecem aplicáveis. Em caso de divergência, prevalece o estado mais restritivo. / The catalog is the institutional reference for current status; this repository's historical records and specific notices remain applicable. If records disagree, the most restrictive state prevails.
+<!-- graal-governance-v1:end -->
