@@ -18,3 +18,7 @@ Níveis 0 (ausente), 1 (parcial), 2 (adequado), 3 (robusto), 4 (integral e verif
 Ordem: Comercial, Finanças, Contabilidade, Administração, Competências Estratégicas. Para cada volume, registrar versão e hash, páginas, afirmações e fontes, exercícios e gabaritos revisados, testes, achados, correções, regressões, notas justificadas e decisão. Priorizar redundâncias F01/F04 e premissas F02/A08. Revisar os 75 documentos tecnológicos separadamente quando disponíveis. Preservar materiais integrais privados, identidade e carga nominal. 
 
 English: evidence-based rubric; approval requires at least 90/100, documented full review and no critical open issue. Independent specialist review where appropriate. No full PDFs published.
+
+## Registro de execução / Review log
+
+- [Homologação I — C01–C03](business-academic-review-i.md): revisão interna 0.3, 3/40 volumes trabalhados, 0/40 homologados. Notas provisórias 75, 72,5 e 75/100; pendências mantidas.

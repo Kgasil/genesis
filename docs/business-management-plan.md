@@ -8,9 +8,9 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 
 | ID | Tema | Topic | Horas | Estado |
 |---|---|---|---:|---|
-| C01 | Fundamentos de Vendas e Comportamento do Consumidor | Sales fundamentals and buyer behavior | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C01 | Fundamentos de Vendas e Comportamento do Consumidor | Sales fundamentals and buyer behavior | 50 | Edição revisada (50 p.), 75/100 provisório, não homologada |
+| C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Edição revisada (50 p.), 72,5/100 provisório, não homologada |
+| C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Edição revisada (50 p.), 75/100 provisório, não homologada |
 | C04 | Vendas Consultivas, SPIN Selling e Diagnóstico | Consultative selling, SPIN and discovery | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C06 | Negociação, Objeções e Fechamento | Negotiation, objections and closing | 50 | Edição de trabalho (50 p.), revisão pendente |
@@ -85,3 +85,8 @@ O acervo original permanece separado. C01–C10: dez edições de trabalho priva
 
 ## Sequência de execução
 C01–C10, F01–F10, A01–A10, ADM01–ADM05, E01–E05; revisão de dependências e projeto integrado ao fim de cada trilha. Caso fictício transversal: empresa de serviços de automação, sem dados pessoais reais.
+
+
+### Marco 03 — Homologação Acadêmica I
+
+C01–C03: revisão interna 0.3, 150 páginas físicas preservadas, 47 páginas alteradas; 120 pares de questões/gabaritos lidos, nove miniavaliações aprofundadas (45 itens), 24 blocos específicos e três critérios adicionais de projeto. 161 recálculos selecionados passaram, 103 páginas não alteradas com render idêntico na escala comparada, nenhuma duplicata textual exata entre os 120 enunciados. Notas provisórias: C01 75/100, C02 72,5/100, C03 75/100. Nenhum homologado; revisão de todas as afirmações, validação pedagógica, reprodutibilidade integral e acessibilidade pendentes. Não há avaliação independente. Inventário de trabalho atualizado por delta; 37 registros complementares anteriores e os 75 documentos tecnológicos não revalidados nesta etapa. Totais planejados preservados.
