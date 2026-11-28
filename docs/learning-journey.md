@@ -38,3 +38,12 @@ English: weekly UTC goals, spaced-review heuristic and M02 data path, with v1/v2
 - M03: cinco entregas de redes, frontend, backend, QA e integração com dados sintéticos em localhost, API e SQLite, critérios de aceite e recuperação. Aeris é referência pedagógica, não conector instalado. Nova CI mantém 25 testes anteriores e amplia diagnósticos e larguras. Resultados finais da nova CI pendentes. Nenhum PDF, Mini ZIP ou estado acadêmico alterado.
 
 English: previous browser and Pages workflows succeeded; v4 adds 15 bilingual practice questions, locally computed results and competency tracking (not certification), plus a proposed M03 software engineering path. New browser regression checks pending.
+
+## Fase V — Segurança e Infraestrutura (28/11/2026)
+
+- Workflows 46151765897 e 46151765778 concluídos com sucesso. Logs: 6 grupos Node, 35 verificações Chromium, reflow 320/360/768/1280 px, nenhum candidato a overflow a 360 px; build e deploy Pages aprovados. Nenhuma regressão anterior comprovada.
+- Banco 1 ampliado de 15 para 30 questões bilíngues, V12–V21. As 15 anteriores permanecem exatamente iguais; schema v4 mantido. Alternativas variam por disciplina, questão e quantidade de tentativas, em ciclo determinístico de seis permutações. Valores canônicos permanecem estáveis; notas históricas preservadas. Não é sorteio criptográfico ou prova segura; questões fixas e familiaridade limitam interpretação. 56 verificações diretas e 180 mapeamentos de permutação conferidos; nova CI mantém regressões e adiciona casos de ordem e V21.
+- M04: cinco entregas defensivas V17–V21, VM própria isolada, escopo explícito, dados sintéticos, menor privilégio, restauração, integridade, segmentação e triagem de logs. Argus como referência pedagógica, sem conector instalado. Atividades propostas, não executadas pelo estudante.
+- Nenhuma alteração em PDFs, bloqueios do Mini, metas curriculares ou notas de homologação. Novo deploy e suíte Chromium pendentes de confirmação; acessibilidade humana continua pendente.
+
+English: Phase IV CI passed across four widths; Phase V adds 15 defensive diagnostic items and rotates displayed choices without changing canonical stored answers. Five isolated-lab learning proposals, no live integration or certification.
