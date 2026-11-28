@@ -45,3 +45,13 @@ Todos: revisão científica por afirmação, atividades abertas, avaliação ped
 | F04 | 0.3 / 75 | Reconciliação por data, classificação contábil quando aplicável e Excel nativo |
 
 Todos: tarefas abertas, referências por afirmação, validação humana, PDF etiquetado e leitor de tela pendentes. Os bloqueios comerciais anteriores permanecem; 14/40 trabalhados, 0/40 homologados.
+
+## Homologação VII — Finanças II
+
+| Volume | Revisão / nota provisória | Bloqueio específico |
+|---|---|---|
+| F05 | 0.3 / 75 | Mix, capacidade inteira e decisões de precificação com dados reais |
+| F06 | 0.3 / 75 | Orçamento integrado multimensal, sazonalidade e dados realizados |
+| F07 | 0.3 / 75 | Séries empíricas, risco fora de amostra e adequação ao perfil |
+
+Todos: revisão por afirmação, tarefas abertas, validação pedagógica, Excel nativo, PDF etiquetado e leitor de tela pendentes. 17/40 trabalhados, 0/40 homologados.

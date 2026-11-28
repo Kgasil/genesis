@@ -27,9 +27,9 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 | F02 | Matemática Financeira e Valor do Dinheiro no Tempo | Financial mathematics and time value of money | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
 | F03 | Economia, Macroeconomia e Microeconomia | Economics, macroeconomics and microeconomics | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
 | F04 | Fluxo de Caixa e Capital de Giro | Cash flow and working capital | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
-| F05 | Custos, Precificação e Margem de Contribuição | Costs, pricing and contribution margin | 50 | Edição de trabalho (50 p.), revisão pendente |
-| F06 | Planejamento Financeiro e Orçamento Empresarial | Financial planning and budgeting | 50 | Edição de trabalho (50 p.), revisão pendente |
-| F07 | Investimentos, Riscos e Mercado Financeiro | Investments, risks and financial markets | 50 | Edição de trabalho (50 p.), revisão pendente |
+| F05 | Custos, Precificação e Margem de Contribuição | Costs, pricing and contribution margin | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| F06 | Planejamento Financeiro e Orçamento Empresarial | Financial planning and budgeting | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| F07 | Investimentos, Riscos e Mercado Financeiro | Investments, risks and financial markets | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
 | F08 | Finanças Corporativas e Estrutura de Capital | Corporate finance and capital structure | 50 | Edição de trabalho (50 p.), revisão pendente |
 | F09 | Valuation, Viabilidade Econômica e Projetos | Valuation, feasibility and projects | 50 | Edição de trabalho (50 p.), revisão pendente |
 | F10 | Estratégia Financeira e Gestão de Empresas | Financial strategy and business management | 50 | Edição de trabalho (50 p.), revisão pendente |
@@ -115,3 +115,8 @@ C01–C03 revisão 0.5: 150 páginas preservadas, nove alteradas, 141 com render
 ### Marco 03 — Homologação Acadêmica VI
 
 28/11/2026. F01–F04 revisão 0.3: 200 páginas, 92 alteradas e 108 com render idêntico na escala comparada; 160 exercícios e 60 itens de 12 miniavaliações examinados por unidade/avaliação. Duas questões redundantes F01/F04 substituídas; F02 regime simples explicitado; F03 contagem fracionária de entregas corrigida. 354 conferências numéricas selecionadas dos PDFs, incluindo 32 oficinas e 96 resultados de quatro projetos. Planilha revisada privada: seis abas, 96 cenários de referência, 38 limites e 123 resultados suplementares conferidos (257/257); Excel nativo não testado. Os grupos se sobrepõem. Dez hashes comerciais e dois arquivos da matriz C05 coincidentes. Notas internas provisórias 75/100 por volume; 14/40 trabalhados, 0/40 homologados. Revisão científica integral, tarefas abertas, validação humana e acessibilidade pendentes. Outros 26 complementares e 75 tecnológicos não revalidados. Totais preservados.
+
+
+### Marco 03 — Homologação Acadêmica VII
+
+28/11/2026. F05–F07 revisão 0.3: 150 páginas, 73 alteradas e 77 com render idêntico na escala 0,65; 120 exercícios e 45 itens de nove miniavaliações recuperados, 24 complementos conceituais e de gabarito. Corrigido o teto inteiro de F05 (176, não 177), unidades de diferenças de taxas e distinção entre resultado e incremento. 268 conferências numéricas selecionadas, incluindo valores de oficinas e projetos; planilha de quatro abas, 72 cenários originais, 72 limites e entradas inválidas e 13 verificações suplementares (157/157). Conjuntos sobrepostos. Excel nativo não testado. 14 hashes anteriores e dois da matriz C05 preservados. Inventário Rev07: contador agregado corrigido para 17/40 trabalhados, 0/40 homologados, planilhas VI e VII registradas com proveniência. Notas internas provisórias 75/100 por volume. Outros 23 complementares e 75 tecnológicos não revalidados. Totais preservados.
