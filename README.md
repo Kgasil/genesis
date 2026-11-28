@@ -37,7 +37,7 @@ O Marco 1.0 permanece intacto: 75 PDFs privados, 4.000 horas nominais. Plano com
 
 **Progresso editorial / Editorial progress (28/11/2026):** 40 edições complementares privadas, 2.003 páginas físicas; produção inicial concluída. Marco 03: C01–C10, F01–F04 e matriz C05 preservados; F05–F07 revisão 0.3, planilha revisada com quatro abas. 17/40 trabalhados, 0/40 homologados; meta 90/100 e validações integrais pendentes. Acervo tecnológico original não revalidado. / 40 private working editions, 2,003 physical pages; initial production complete. Milestone 03: C01–C10, F01–F04 and C05 matrix preserved; F05–F07 revision 0.3, revised four-sheet workbook. 17/40 worked on, 0/40 approved; full review and 90/100 threshold pending. Original technology collection not revalidated.
 
-**Marco 04 / Milestone 04:** [Jornada de aprendizagem / Learning journey](https://kgasil.github.io/genesis/jornada.html) — 100 disciplinas, progresso local, cronograma ajustável e 15 projetos propostos. Marco 03 suspenso, notas provisórias preservadas, 0/40 homologados. / 100 subjects, local progress, adjustable schedule and 15 proposed projects. Milestone 03 paused; no academic approvals.
+**Marco 04 / Milestone 04:** [Jornada de aprendizagem / Learning journey](https://kgasil.github.io/genesis/jornada.html) — 100 disciplinas, progresso local, cronograma ajustável, diário de sessões, evidências de portfólio e 15 projetos propostos. Marco 03 suspenso, notas provisórias preservadas, 0/40 homologados. / 100 subjects, local progress, adjustable schedule, session journal, portfolio evidence and 15 proposed projects. Milestone 03 paused; no academic approvals.
 
 [Plano editorial / Editorial plan](docs/business-management-plan.md)
 

@@ -11,3 +11,12 @@
 - Próximo: teste de uso real, recuperação privada dos arquivos tecnológicos ausentes conforme inventário histórico e validação de acessibilidade. Depois, piloto de aprendizagem com V01–V04 e projeto M01.
 
 English: Milestone 03 paused, 17/40 worked on and zero approved. New free local-first journey with 100 subjects, adjustable schedule, 15 portfolio proposals and JSON backup. No academic certification, uploads, or live integrations. Browser, assistive technology and Pages deployment still need testing.
+
+## Fase II — Diário e portfólio (28/11/2026)
+
+- Migração v1→v2 preserva as horas históricas e etapas; v2 usa chave própria `genesis.journey.v2`. Saldo histórico somente leitura. Sessões concluídas têm intervalo em minutos (UTC), disciplina, tipo e nota curta; duração máxima 24h, sem sobreposição global. Não relançar horas do saldo histórico (não há datas para deduplicar retrospectivamente). Evidências têm disciplina, projeto, tipo, título, referência textual e revisão autodeclarada; não somam horas.
+- Backup v2 JSON, importação também de v1, validação de schema, IDs, duração, duplicidades e sobreposição; substituição e exclusão confirmadas. Limites: 3.000 sessões, 1.000 evidências, 2 MB por importação. Conflitos de outra aba detectados antes de salvar, sem garantia transacional de gravação simultânea. Sem anexos nem dados sensíveis; estado local não criptografado. Fuso exibido conforme navegador; horário ambíguo em mudança de fuso/DST deve ser conferido pelo estudante.
+- Percurso V01–V06: inventário fictício, algoritmo, Git, Python, Java, estruturas de dados e projeto M01 fila de chamados. Propostas GRAAL, não integração executável. Critérios: validação, ordenação, testes e README.
+- 30 verificações diretas de funções puras nesta preparação, todas passaram. Workflow separado `journey-validation.yml` com Node e Chromium/Playwright; execução e resultado a conferir. Acessibilidade: rótulos, foco, regiões de status, navegação por teclado e reflow testáveis; leitor de tela e conformidade integral não presumidos. PDFs, biblioteca curricular, segurança do Mini e homologação suspensa preservados.
+
+English: v2 local session ledger, read-only migrated historical balance, non-overlapping intervals, evidence registry with no extra hours, and V01–V06 practice path. No uploads, approvals or paid services. Browser CI and human accessibility evidence remain to be confirmed.

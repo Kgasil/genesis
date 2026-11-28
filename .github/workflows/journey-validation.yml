@@ -1,0 +1,22 @@
+name: Genesis journey validation
+on:
+  push:
+    paths: ['jornada.html','journey/**','tests/journey*','.github/workflows/journey-validation.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: node --check journey/core.js && node --check journey/ui.js && node --test tests/journey.test.js
+      - run: python -m pip install playwright==1.51.0
+      - run: python -m playwright install --with-deps chromium
+      - run: python tests/journey_browser.py
