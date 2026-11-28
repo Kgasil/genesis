@@ -47,3 +47,12 @@ English: previous browser and Pages workflows succeeded; v4 adds 15 bilingual pr
 - Nenhuma alteração em PDFs, bloqueios do Mini, metas curriculares ou notas de homologação. Novo deploy e suíte Chromium pendentes de confirmação; acessibilidade humana continua pendente.
 
 English: Phase IV CI passed across four widths; Phase V adds 15 defensive diagnostic items and rotates displayed choices without changing canonical stored answers. Five isolated-lab learning proposals, no live integration or certification.
+
+## Fase VI — Engenharia de Segurança e Governança (28/11/2026)
+
+- Workflows 46152101863 e 46152101623 concluídos com sucesso: 7 grupos Node, 39 verificações Chromium, reflow 320/360/768/1280 px sem overflow identificado a 360 px; build e deploy aprovados. Nenhuma regressão comprovada a corrigir.
+- Banco 1 ampliado de 30 para 48 questões bilíngues (V12–V27); 30 questões anteriores idênticas, schema v4 e permutações canônicas mantidos. 88 verificações diretas e 288 mapeamentos conferidos, incluindo 10 tentativas históricas sintéticas restauradas e notas preservadas. Nova CI inclui testes V27 e cobertura M05. As questões não são avaliação psicométrica ou certificação.
+- M05: seis entregas defensivas V22–V27, continuidade da API fictícia M03, escopo autorizado, VM isolada, acesso mínimo, desenvolvimento seguro, revisão de controles, integridade de evidências, privacidade e governança. Argus como referência pedagógica, não integração instalada. Atividades propostas, não executadas pelo estudante. Nenhuma afirmação de conformidade legal.
+- PDFs, metas curriculares, bloqueio Mini, gratuidade, armazenamento local e suspensão de homologações preservados. Novo deploy e Chromium pendentes; teste humano de acessibilidade continua pendente.
+
+English: previous CI and Pages deployment passed. Phase VI expands the fixed bilingual bank to 48 items with historical answers unchanged and adds six defensive M05 learning deliverables. Local storage and no certification or live Argus integration remain unchanged.
