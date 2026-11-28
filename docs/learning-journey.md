@@ -20,3 +20,5 @@ English: Milestone 03 paused, 17/40 worked on and zero approved. New free local-
 - 30 verificações diretas de funções puras nesta preparação, todas passaram. Workflow separado `journey-validation.yml` com Node e Chromium/Playwright; execução e resultado a conferir. Acessibilidade: rótulos, foco, regiões de status, navegação por teclado e reflow testáveis; leitor de tela e conformidade integral não presumidos. PDFs, biblioteca curricular, segurança do Mini e homologação suspensa preservados.
 
 English: v2 local session ledger, read-only migrated historical balance, non-overlapping intervals, evidence registry with no extra hours, and V01–V06 practice path. No uploads, approvals or paid services. Browser CI and human accessibility evidence remain to be confirmed.
+
+Correção de inspeção: mensagem de exclusão de sessão usava ID incorreto; corrigida e casos de exclusão adicionados ao teste Chromium. Backup com sessão futura recusado na importação. Verificação em CI pendente.
