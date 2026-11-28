@@ -24,3 +24,5 @@ English: evidence-based rubric; approval requires at least 90/100, documented fu
 - [Homologação I — C01–C03](business-academic-review-i.md): revisão interna 0.3, 3/40 volumes trabalhados, 0/40 homologados. Notas provisórias 75, 72,5 e 75/100; pendências mantidas.
 
 - [Homologação II — C01–C03](business-academic-review-ii.md): revisão 0.4; 72 parágrafos mapeados a fontes temáticas, 24 desafios adicionais, 57 testes de projetos e desafios sintéticos aprovados. Notas mantidas; 0/40 homologados.
+
+- [Homologação III — C01–C03](business-academic-review-iii.md): revisão 0.5; 24 oficinas com soluções sintéticas, 165 itens com parecer interno, 322 segmentos triados, protocolos humanos/jurídicos pendentes de execução. Notas mantidas; 0/40 homologados.
