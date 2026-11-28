@@ -11,9 +11,9 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 | C01 | Fundamentos de Vendas e Comportamento do Consumidor | Sales fundamentals and buyer behavior | 50 | Edição revisada 0.5 (50 p.), 75/100 provisório, não homologada |
 | C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Edição revisada 0.5 (50 p.), 72,5/100 provisório, não homologada |
 | C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Edição revisada 0.5 (50 p.), 75/100 provisório, não homologada |
-| C04 | Vendas Consultivas, SPIN Selling e Diagnóstico | Consultative selling, SPIN and discovery | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C06 | Negociação, Objeções e Fechamento | Negotiation, objections and closing | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C04 | Vendas Consultivas, SPIN Selling e Diagnóstico | Consultative selling, SPIN and discovery | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Edição revisada 0.3 (50 p.), 72,5/100 provisório, não homologada |
+| C06 | Negociação, Objeções e Fechamento | Negotiation, objections and closing | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
 | C07 | CRM, Pipeline e Gestão de Funil Comercial | CRM, pipeline and funnel management | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C08 | Vendas B2B, B2C e Vendas Complexas | B2B, B2C and complex selling | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C09 | Sales Operations, Indicadores e Estratégia Comercial | Sales operations, metrics and strategy | 50 | Edição de trabalho (50 p.), revisão pendente |
@@ -100,3 +100,8 @@ C01–C03, revisão 0.4: 150 páginas preservadas, 78 trabalhadas, 72 inalterada
 ### Marco 03 — Homologação Acadêmica III
 
 C01–C03 revisão 0.5: 150 páginas preservadas, nove alteradas, 141 com render idêntico na escala comparada. 120 exercícios e 45 itens de nove miniavaliações com parecer interno; 37 recálculos vinculados a gabaritos e 24 desafios adicionais conferidos. 24 oficinas com entregas: 17 matemáticas, 85 resultados conferidos, sete soluções textuais simuladas. Triagem de 322 segmentos de teoria e revisão direcionada de 24 pontos; 27 URLs/DOIs localizados, não validação científica integral. Idioma pt-BR, marcadores e HTML auxiliar; ausência de PDF etiquetado e de teste de leitor de tela. Protocolos de validação humana e jurídica preparados, não executados. Notas provisórias mantidas em 75, 72,5 e 75/100. Nenhum homologado. Inventário atualizado por delta; demais 37 complementares e 75 tecnológicos não revalidados.
+
+
+### Marco 03 — Homologação Acadêmica IV
+
+28/11/2026. C01–C03 revisão 0.5 preservada (3 hashes conferidos), bloqueios humanos, jurídicos e de acessibilidade separados. C04–C06 revisão 0.3: 150 páginas, 57 alteradas e 93 com render idêntico na escala 0,65; 120 exercícios e 45 itens de nove miniavaliações com parecer interno, 24 notas de fundamentação e 24 de gabarito, 24 oficinas com soluções documentadas e três projetos sintéticos. 117 recálculos selecionados e 23 verificações de decisão passaram. Notas provisórias 75, 72,5 e 75/100; nenhum homologado. Revisão científica por afirmação, tarefas abertas, validação humana, jurídica e acessibilidade não concluídas. Inventário atualizado por delta: 6/40 trabalhados, 0/40 homologados. Outros 34 complementares e os 75 originais não revalidados. Totais preservados.
