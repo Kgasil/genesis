@@ -10,10 +10,27 @@
 | Acessibilidade | C01–C03 | PDF etiquetado, ordem de leitura, alternativas de gráficos e teste de leitor de tela | Pendente |
 | Acadêmico | C01–C03 | Revisão científica por afirmação e validação de tarefas abertas | Pendente |
 | Humano/acadêmico | C04–C06 | Aplicação profissional e pedagógica em participantes, revisão de fontes integral | Pendente |
-| Reprodutibilidade | C05 | Matriz de testes dos 12 modelos por campo, canal, versão e restrição | Pendente |
+| Reprodutibilidade | C05 | Matriz local de 12 modelos por campo, canal, versão e restrição | 170/170 cenários sintéticos; validação humana e semântica real pendentes |
 | Jurídico | C05–C06 | Revisão especializada de uso de dados, permissões, formalização e autoridade quando aplicáveis | Pendente |
 | Acessibilidade | C04–C06 | Leitor de tela, PDF etiquetado, descrição de gráficos | Pendente |
 
 Nenhum teste externo declarado executado. HTML auxiliar, simulações e referências não equivalem a certificação. 0/40 homologados. 
 
 English: separate unresolved human, legal, accessibility and academic evidence requirements; no external validations claimed.
+
+## Homologação V — consolidação dos dez volumes comerciais
+
+| Volume | Revisão / nota provisória | Bloqueio específico |
+|---|---|---|
+| C01 | 0.5 / 75 | Diagnóstico e validação pedagógica, fontes por afirmação |
+| C02 | 0.5 / 72,5 | Oratória, compreensão e concordância de avaliadores |
+| C03 | 0.5 / 75 | LGPD em contexto real e validação empírica |
+| C04 | 0.3 / 75 | Diagnóstico causal, piloto e avaliação humana |
+| C05 | 0.3 / 75 | Matriz sintética concluída; adequação semântica, autorizações e revisão jurídica/humana |
+| C06 | 0.3 / 75 | Negociação humana, equivalência da BATNA, autoridade e formalização |
+| C07 | 0.3 / 75 | Integração autorizada, atomicidade, qualidade e governança de dados |
+| C08 | 0.3 / 75 | Validação de requisitos, piloto e autoridade |
+| C09 | 0.3 / 75 | Forecast fora da amostra e validação de decisões |
+| C10 | 0.3 / 75 | Demanda, caixa, capacidade, parcerias e qualidade real |
+
+Todos: revisão científica por afirmação, atividades abertas, avaliação pedagógica e acessibilidade; jurídico especializado quando aplicável. Nenhuma avaliação externa executada. 10/40 trabalhados; 0/40 homologados.

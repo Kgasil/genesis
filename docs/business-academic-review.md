@@ -28,3 +28,5 @@ English: evidence-based rubric; approval requires at least 90/100, documented fu
 - [Homologação III — C01–C03](business-academic-review-iii.md): revisão 0.5; 24 oficinas com soluções sintéticas, 165 itens com parecer interno, 322 segmentos triados, protocolos humanos/jurídicos pendentes de execução. Notas mantidas; 0/40 homologados.
 
 - [Homologação IV — C04–C06](business-academic-review-iv.md): revisão 0.3; C01–C03 preservados; 165 itens com parecer interno, 24 oficinas e três projetos sintéticos, 117 recálculos e 23 decisões verificadas. 6/40 trabalhados, 0/40 homologados. [Bloqueios externos e técnicos](business-academic-review-blockers.md).
+
+- [Homologação V — C07–C10](business-academic-review-v.md): revisão 0.3; C01–C06 preservados, matriz local de C05 (170/170) e reprodutibilidade elevada de nível 2 a 3. 220 itens lidos com notas por unidade/avaliação, 32 oficinas e quatro projetos sintéticos; 177 verificações selecionadas aprovadas. 10/40 trabalhados, 0/40 homologados.

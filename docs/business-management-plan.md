@@ -12,12 +12,12 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 | C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Edição revisada 0.5 (50 p.), 72,5/100 provisório, não homologada |
 | C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Edição revisada 0.5 (50 p.), 75/100 provisório, não homologada |
 | C04 | Vendas Consultivas, SPIN Selling e Diagnóstico | Consultative selling, SPIN and discovery | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
-| C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Edição revisada 0.3 (50 p.), 72,5/100 provisório, não homologada |
+| C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
 | C06 | Negociação, Objeções e Fechamento | Negotiation, objections and closing | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
-| C07 | CRM, Pipeline e Gestão de Funil Comercial | CRM, pipeline and funnel management | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C08 | Vendas B2B, B2C e Vendas Complexas | B2B, B2C and complex selling | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C09 | Sales Operations, Indicadores e Estratégia Comercial | Sales operations, metrics and strategy | 50 | Edição de trabalho (50 p.), revisão pendente |
-| C10 | Gestão Comercial e Desenvolvimento de Negócios | Sales management and business development | 50 | Edição de trabalho (50 p.), revisão pendente |
+| C07 | CRM, Pipeline e Gestão de Funil Comercial | CRM, pipeline and funnel management | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| C08 | Vendas B2B, B2C e Vendas Complexas | B2B, B2C and complex selling | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| C09 | Sales Operations, Indicadores e Estratégia Comercial | Sales operations, metrics and strategy | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| C10 | Gestão Comercial e Desenvolvimento de Negócios | Sales management and business development | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
 
 ## Finanças e Economia / Finance & Economics — 500h
 
@@ -105,3 +105,8 @@ C01–C03 revisão 0.5: 150 páginas preservadas, nove alteradas, 141 com render
 ### Marco 03 — Homologação Acadêmica IV
 
 28/11/2026. C01–C03 revisão 0.5 preservada (3 hashes conferidos), bloqueios humanos, jurídicos e de acessibilidade separados. C04–C06 revisão 0.3: 150 páginas, 57 alteradas e 93 com render idêntico na escala 0,65; 120 exercícios e 45 itens de nove miniavaliações com parecer interno, 24 notas de fundamentação e 24 de gabarito, 24 oficinas com soluções documentadas e três projetos sintéticos. 117 recálculos selecionados e 23 verificações de decisão passaram. Notas provisórias 75, 72,5 e 75/100; nenhum homologado. Revisão científica por afirmação, tarefas abertas, validação humana, jurídica e acessibilidade não concluídas. Inventário atualizado por delta: 6/40 trabalhados, 0/40 homologados. Outros 34 complementares e os 75 originais não revalidados. Totais preservados.
+
+
+### Marco 03 — Homologação Acadêmica V
+
+28/11/2026. C01–C06 preservados: seis hashes coincidentes. C07–C10 revisão 0.3: 200 páginas, 88 alteradas e 112 visualmente idênticas na escala 0,65; 160 pares de questões/gabaritos e 60 itens de 12 miniavaliações lidos, com notas por unidade ou avaliação. 32 oficinas com soluções, quatro projetos sintéticos, 164 recálculos e 13 verificações de decisão/texto aprovados; 11 URLs bibliográficas localizadas, não revisão científica integral. C05: novo validador local suplementar, 170 cenários aprovados (155 bloqueios esperados), reprodutibilidade nível 2→3 e nota provisória 72,5→75/100 sem alteração do PDF. C07–C10: notas provisórias 75/100. 10/40 trabalhados, 0/40 homologados. Bloqueios dos dez volumes consolidados. Inventário atualizado por delta; outros 30 complementares e 75 tecnológicos não revalidados. Totais preservados.
