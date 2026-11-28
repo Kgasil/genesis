@@ -1,3 +1,5 @@
+> **Instalação suspensa / Installation paused — 28/11/2026.** Incidente Microsoft [#1](https://github.com/Kgasil/genesis/issues/1) permanece aberto. As instruções abaixo são históricas; não baixe, instale ou restaure o pacote enquanto o parecer estiver pendente. / Microsoft incident #1 remains open. Instructions below are historical; do not download, install or restore the package while the verdict is pending. [Mini Lab web](https://kgasil.github.io/genesis/mini/).
+
 > [!WARNING]
 > **AVISO IMPORTANTE DE SEGURANÇA — Genesis Mini 0.1.0 (26/11/2026)**
 >
