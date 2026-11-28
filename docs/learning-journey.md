@@ -22,3 +22,11 @@ English: Milestone 03 paused, 17/40 worked on and zero approved. New free local-
 English: v2 local session ledger, read-only migrated historical balance, non-overlapping intervals, evidence registry with no extra hours, and V01–V06 practice path. No uploads, approvals or paid services. Browser CI and human accessibility evidence remain to be confirmed.
 
 Correção de inspeção: mensagem de exclusão de sessão usava ID incorreto; corrigida e casos de exclusão adicionados ao teste Chromium. Backup com sessão futura recusado na importação. Verificação em CI pendente.
+
+## Fase III — Metas e revisão espaçada (28/11/2026)
+
+- Workflow 46148218729: build e deploy anteriores concluídos. Workflow 46148218730: Node e instalação Chromium aprovados; teste de reflow a 360 px falhou após os fluxos de migração, sessão, backup, exclusão e idioma. Correção responsiva sem ocultar overflow; CI nova preserva o teste e adiciona diagnóstico.
+- Schema v3 na chave local existente, migração v1/v2; metas padrão de 900 minutos e cinco revisões por semana, editáveis. Semana segunda–domingo UTC; sessões repartidas no limite semanal; saldo histórico excluído da meta. Revisões autodeclaradas, uma por disciplina/dia UTC, não somam horas; intervalos heurísticos 1/3/7/14/30 dias, sem alegação de eficácia individual. Fila de até 20 itens e contagem integral. Backup inclui metas e revisões; versões antigas aceitas.
+- V07–V11: cinco entregas M02 com SQLite, Python e painel HTML local, dados fictícios e reconciliação. Lilium é referência pedagógica, não integração instalada. 22 verificações diretas de lógica aprovadas; nova CI de navegador pendente de resultado. Página pública anterior implantada pelo Pages, consulta externa direta indisponível nesta execução. Nenhum PDF, ZIP do Mini ou bloqueio acadêmico alterado.
+
+English: weekly UTC goals, spaced-review heuristic and M02 data path, with v1/v2 migration. The previous Pages deployment passed; Chromium exposed mobile overflow and the responsive fix is under regression testing. No academic approval or live Lilium integration.
