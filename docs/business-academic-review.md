@@ -22,3 +22,5 @@ English: evidence-based rubric; approval requires at least 90/100, documented fu
 ## Registro de execução / Review log
 
 - [Homologação I — C01–C03](business-academic-review-i.md): revisão interna 0.3, 3/40 volumes trabalhados, 0/40 homologados. Notas provisórias 75, 72,5 e 75/100; pendências mantidas.
+
+- [Homologação II — C01–C03](business-academic-review-ii.md): revisão 0.4; 72 parágrafos mapeados a fontes temáticas, 24 desafios adicionais, 57 testes de projetos e desafios sintéticos aprovados. Notas mantidas; 0/40 homologados.

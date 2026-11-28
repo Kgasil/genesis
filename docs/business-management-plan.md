@@ -8,9 +8,9 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 
 | ID | Tema | Topic | Horas | Estado |
 |---|---|---|---:|---|
-| C01 | Fundamentos de Vendas e Comportamento do Consumidor | Sales fundamentals and buyer behavior | 50 | Edição revisada (50 p.), 75/100 provisório, não homologada |
-| C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Edição revisada (50 p.), 72,5/100 provisório, não homologada |
-| C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Edição revisada (50 p.), 75/100 provisório, não homologada |
+| C01 | Fundamentos de Vendas e Comportamento do Consumidor | Sales fundamentals and buyer behavior | 50 | Edição revisada 0.4 (50 p.), 75/100 provisório, não homologada |
+| C02 | Comunicação, Persuasão Ética e Oratória | Communication, ethical persuasion and speaking | 50 | Edição revisada 0.4 (50 p.), 72,5/100 provisório, não homologada |
+| C03 | Prospecção, Inteligência Comercial e Geração de Leads | Prospecting, sales intelligence and lead generation | 50 | Edição revisada 0.4 (50 p.), 75/100 provisório, não homologada |
 | C04 | Vendas Consultivas, SPIN Selling e Diagnóstico | Consultative selling, SPIN and discovery | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C05 | Repertório Comercial, Scripts e Abordagens | Sales playbooks, scripts and approaches | 50 | Edição de trabalho (50 p.), revisão pendente |
 | C06 | Negociação, Objeções e Fechamento | Negotiation, objections and closing | 50 | Edição de trabalho (50 p.), revisão pendente |
@@ -90,3 +90,8 @@ C01–C10, F01–F10, A01–A10, ADM01–ADM05, E01–E05; revisão de dependên
 ### Marco 03 — Homologação Acadêmica I
 
 C01–C03: revisão interna 0.3, 150 páginas físicas preservadas, 47 páginas alteradas; 120 pares de questões/gabaritos lidos, nove miniavaliações aprofundadas (45 itens), 24 blocos específicos e três critérios adicionais de projeto. 161 recálculos selecionados passaram, 103 páginas não alteradas com render idêntico na escala comparada, nenhuma duplicata textual exata entre os 120 enunciados. Notas provisórias: C01 75/100, C02 72,5/100, C03 75/100. Nenhum homologado; revisão de todas as afirmações, validação pedagógica, reprodutibilidade integral e acessibilidade pendentes. Não há avaliação independente. Inventário de trabalho atualizado por delta; 37 registros complementares anteriores e os 75 documentos tecnológicos não revalidados nesta etapa. Totais planejados preservados.
+
+
+### Marco 03 — Homologação Acadêmica II
+
+C01–C03, revisão 0.4: 150 páginas preservadas, 78 trabalhadas, 72 inalteradas com render idêntico na escala comparada. 72 parágrafos centrais mapeados a referências temáticas; 24 blocos de fundamentação e 24 desafios adicionais com soluções. Três projetos simulados com dados sintéticos e 57 testes aprovados; C02 apenas textual. Corrigida a ambiguidade do experimento C03 (coorte de 40 independente da fila de 25). Notas internas provisórias mantidas em 75, 72,5 e 75/100, sem homologação. Revisão por afirmação não exaustiva, aplicação por estudantes, validação de fala, revisão jurídica e acessibilidade pendentes. Inventário atualizado por delta, sem revalidar outros 37 volumes ou 75 documentos tecnológicos. Totais planejados preservados.
