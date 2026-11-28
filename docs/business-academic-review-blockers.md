@@ -55,3 +55,7 @@ Todos: tarefas abertas, referências por afirmação, validação humana, PDF et
 | F07 | 0.3 / 75 | Séries empíricas, risco fora de amostra e adequação ao perfil |
 
 Todos: revisão por afirmação, tarefas abertas, validação pedagógica, Excel nativo, PDF etiquetado e leitor de tela pendentes. 17/40 trabalhados, 0/40 homologados.
+
+## Transição para Marco 04
+
+Pendências permanecem abertas; nenhuma aprovação por suspensão. Priorizar prática e coleta voluntária de evidências, recuperação privada do acervo e testes de acessibilidade; retomar revisão quando houver novas evidências ou falha comprovada.

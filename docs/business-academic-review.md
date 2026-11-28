@@ -34,3 +34,7 @@ English: evidence-based rubric; approval requires at least 90/100, documented fu
 - [Homologação VI — F01–F04](business-academic-review-vi.md): revisão 0.3, redundâncias F01/F04 tratadas, premissas F02 esclarecidas, 354 conferências numéricas dos PDFs e 257 da planilha revisada (conjuntos sobrepostos). C01–C10 e matriz C05 preservados por hash. 14/40 trabalhados, 0/40 homologados.
 
 - [Homologação VII — F05–F07](business-academic-review-vii.md): revisão 0.3; correção do teto inteiro, unidades e resultado incremental; 268 conferências numéricas dos PDFs, 157 verificações da planilha revisada (conjuntos sobrepostos). 14 revisões anteriores e matriz C05 preservadas por hash. 17/40 trabalhados, 0/40 homologados.
+
+## Suspensão de execução — 28/11/2026
+
+Por decisão do idealizador, novas rodadas repetitivas ficam suspensas. Preservar 17/40 trabalhados, 0/40 homologados, notas, requisitos e bloqueios. O Marco 04 não equivale à homologação. [Jornada de aprendizagem](learning-journey.md).

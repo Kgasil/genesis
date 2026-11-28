@@ -120,3 +120,8 @@ C01–C03 revisão 0.5: 150 páginas preservadas, nove alteradas, 141 com render
 ### Marco 03 — Homologação Acadêmica VII
 
 28/11/2026. F05–F07 revisão 0.3: 150 páginas, 73 alteradas e 77 com render idêntico na escala 0,65; 120 exercícios e 45 itens de nove miniavaliações recuperados, 24 complementos conceituais e de gabarito. Corrigido o teto inteiro de F05 (176, não 177), unidades de diferenças de taxas e distinção entre resultado e incremento. 268 conferências numéricas selecionadas, incluindo valores de oficinas e projetos; planilha de quatro abas, 72 cenários originais, 72 limites e entradas inválidas e 13 verificações suplementares (157/157). Conjuntos sobrepostos. Excel nativo não testado. 14 hashes anteriores e dois da matriz C05 preservados. Inventário Rev07: contador agregado corrigido para 17/40 trabalhados, 0/40 homologados, planilhas VI e VII registradas com proveniência. Notas internas provisórias 75/100 por volume. Outros 23 complementares e 75 tecnológicos não revalidados. Totais preservados.
+
+
+## Marco 04 — Experiência de aprendizagem
+
+Homologações repetitivas suspensas por decisão do idealizador em 28/11/2026; 17/40 trabalhados e 0/40 homologados. Notas e bloqueios preservados. [Jornada de aprendizagem](../jornada.html), [documentação](learning-journey.md). Nenhuma nova carga nominal ou PDF integral publicado.
