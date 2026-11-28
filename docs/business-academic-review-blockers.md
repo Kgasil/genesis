@@ -34,3 +34,14 @@ English: separate unresolved human, legal, accessibility and academic evidence r
 | C10 | 0.3 / 75 | Demanda, caixa, capacidade, parcerias e qualidade real |
 
 Todos: revisão científica por afirmação, atividades abertas, avaliação pedagógica e acessibilidade; jurídico especializado quando aplicável. Nenhuma avaliação externa executada. 10/40 trabalhados; 0/40 homologados.
+
+## Homologação VI — Finanças I
+
+| Volume | Revisão / nota provisória | Bloqueio específico |
+|---|---|---|
+| F01 | 0.3 / 75 | Validação pedagógica, perfis de risco e decisões com premissas explicitadas |
+| F02 | 0.3 / 75 | Cronogramas com encargos e convenções contratuais, CET, Excel nativo |
+| F03 | 0.3 / 75 | Revisão científica por afirmação, séries empíricas e inferência causal |
+| F04 | 0.3 / 75 | Reconciliação por data, classificação contábil quando aplicável e Excel nativo |
+
+Todos: tarefas abertas, referências por afirmação, validação humana, PDF etiquetado e leitor de tela pendentes. Os bloqueios comerciais anteriores permanecem; 14/40 trabalhados, 0/40 homologados.

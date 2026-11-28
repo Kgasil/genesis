@@ -23,10 +23,10 @@ Cada volume: alvo de 50 páginas de conteúdo efetivo; ADM01–ADM03 têm meta d
 
 | ID | Tema | Topic | Horas | Estado |
 |---|---|---|---:|---|
-| F01 | Fundamentos de Finanças e Educação Financeira | Finance fundamentals and financial literacy | 50 | Edição de trabalho (50 p.), revisão pendente |
-| F02 | Matemática Financeira e Valor do Dinheiro no Tempo | Financial mathematics and time value of money | 50 | Edição de trabalho (50 p.), revisão pendente |
-| F03 | Economia, Macroeconomia e Microeconomia | Economics, macroeconomics and microeconomics | 50 | Edição de trabalho (50 p.), revisão pendente |
-| F04 | Fluxo de Caixa e Capital de Giro | Cash flow and working capital | 50 | Edição de trabalho (50 p.), revisão pendente |
+| F01 | Fundamentos de Finanças e Educação Financeira | Finance fundamentals and financial literacy | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| F02 | Matemática Financeira e Valor do Dinheiro no Tempo | Financial mathematics and time value of money | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| F03 | Economia, Macroeconomia e Microeconomia | Economics, macroeconomics and microeconomics | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
+| F04 | Fluxo de Caixa e Capital de Giro | Cash flow and working capital | 50 | Edição revisada 0.3 (50 p.), 75/100 provisório, não homologada |
 | F05 | Custos, Precificação e Margem de Contribuição | Costs, pricing and contribution margin | 50 | Edição de trabalho (50 p.), revisão pendente |
 | F06 | Planejamento Financeiro e Orçamento Empresarial | Financial planning and budgeting | 50 | Edição de trabalho (50 p.), revisão pendente |
 | F07 | Investimentos, Riscos e Mercado Financeiro | Investments, risks and financial markets | 50 | Edição de trabalho (50 p.), revisão pendente |
@@ -110,3 +110,8 @@ C01–C03 revisão 0.5: 150 páginas preservadas, nove alteradas, 141 com render
 ### Marco 03 — Homologação Acadêmica V
 
 28/11/2026. C01–C06 preservados: seis hashes coincidentes. C07–C10 revisão 0.3: 200 páginas, 88 alteradas e 112 visualmente idênticas na escala 0,65; 160 pares de questões/gabaritos e 60 itens de 12 miniavaliações lidos, com notas por unidade ou avaliação. 32 oficinas com soluções, quatro projetos sintéticos, 164 recálculos e 13 verificações de decisão/texto aprovados; 11 URLs bibliográficas localizadas, não revisão científica integral. C05: novo validador local suplementar, 170 cenários aprovados (155 bloqueios esperados), reprodutibilidade nível 2→3 e nota provisória 72,5→75/100 sem alteração do PDF. C07–C10: notas provisórias 75/100. 10/40 trabalhados, 0/40 homologados. Bloqueios dos dez volumes consolidados. Inventário atualizado por delta; outros 30 complementares e 75 tecnológicos não revalidados. Totais preservados.
+
+
+### Marco 03 — Homologação Acadêmica VI
+
+28/11/2026. F01–F04 revisão 0.3: 200 páginas, 92 alteradas e 108 com render idêntico na escala comparada; 160 exercícios e 60 itens de 12 miniavaliações examinados por unidade/avaliação. Duas questões redundantes F01/F04 substituídas; F02 regime simples explicitado; F03 contagem fracionária de entregas corrigida. 354 conferências numéricas selecionadas dos PDFs, incluindo 32 oficinas e 96 resultados de quatro projetos. Planilha revisada privada: seis abas, 96 cenários de referência, 38 limites e 123 resultados suplementares conferidos (257/257); Excel nativo não testado. Os grupos se sobrepõem. Dez hashes comerciais e dois arquivos da matriz C05 coincidentes. Notas internas provisórias 75/100 por volume; 14/40 trabalhados, 0/40 homologados. Revisão científica integral, tarefas abertas, validação humana e acessibilidade pendentes. Outros 26 complementares e 75 tecnológicos não revalidados. Totais preservados.
